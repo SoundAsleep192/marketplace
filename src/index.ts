@@ -1,7 +1,10 @@
-import { Elysia } from "elysia";
+import { Elysia } from 'elysia'
+import { swagger } from '@elysiajs/swagger'
 
-const app = new Elysia().get("/", () => "Hello Elysia").listen(3000);
-
-console.log(
-  `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`
-);
+new Elysia()
+  .use(swagger())
+  .get('/', 'Hello Elysia')
+  .get('/user/:id', ({ params: { id } }) => id)
+  .get('/hello', 'Do you miss me?')
+  .post('/form', ({ body }) => body)
+  .listen(3000)
