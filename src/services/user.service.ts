@@ -13,4 +13,11 @@ export abstract class UserService {
   ): Promise<void> {
     return SessionRepository.addSession(sessionKey, user.id)
   }
+
+  static async verifyPassword(
+    password: string,
+    hash: string
+  ): Promise<boolean> {
+    return Bun.password.verify(password, hash)
+  }
 }

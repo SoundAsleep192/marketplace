@@ -7,7 +7,10 @@ export const userController = new Elysia({ prefix: '/user' })
     async ({ error, body: { username, password }, cookie: { token } }) => {
       const user = await UserService.getUserByUsername(username)
 
-      if (!user || !(await Bun.password.verify(password, user.password))) {
+      if (
+        !user ||
+        !(await UserService.verifyPassword(password, user.password))
+      ) {
         return error(400, {
           success: false,
           message: 'Invalid username or password',
