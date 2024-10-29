@@ -1,7 +1,9 @@
 import { Elysia, t } from 'elysia'
 import { UserService } from '../services/user.service'
+import { authService } from '../services/auth.service'
 
 export const userController = new Elysia({ prefix: '/user' })
+  .use(authService)
   .post(
     '/sign-in',
     async ({ error, body: { username, password }, cookie: { token } }) => {
@@ -29,29 +31,10 @@ export const userController = new Elysia({ prefix: '/user' })
       }
     },
     {
-      body: t.Object({
-        username: t.String(),
-        password: t.String(),
-      }),
-      cookie: t.Cookie(
-        {
-          token: t.Number(),
-        },
-        {
-          secrets: process.env.COOKIE_SECRET,
-        }
-      ),
+      body: 'signIn',
+      cookie: 'session',
     }
   )
-  .get('/sign-out', ({ cookie: { token } }) => {
-    token.remove()
-
-    return {
-      success: true,
-      message: 'Signed out',
-    }
-  })
-  // логин, пароль, новый пароль
   .post(
     '/change-password',
     async ({
@@ -83,17 +66,7 @@ export const userController = new Elysia({ prefix: '/user' })
       }
     },
     {
-      body: t.Object({
-        oldPassword: t.String(),
-        newPassword: t.String(),
-      }),
-      cookie: t.Cookie(
-        {
-          token: t.Number(),
-        },
-        {
-          secrets: process.env.COOKIE_SECRET,
-        }
-      ),
+      body: 'changePassword',
+      cookie: 'session',
     }
   )
