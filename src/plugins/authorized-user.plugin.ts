@@ -9,6 +9,6 @@ export const authorizedUserPlugin = new Elysia()
     authorized: true,
   })
   .resolve(async ({ cookie: { token } }) => ({
-    authorizedUser: await UserService.getUserBySessionKey(token.value),
+    authorizedUser: (await UserService.getUserBySessionKey(token.value))!,
   }))
   .as('plugin')

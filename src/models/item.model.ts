@@ -1,7 +1,7 @@
 import { t } from 'elysia'
 
 export const itemModel = t.Object({
-  item_id: t.String(),
+  item_id: t.Number(),
   name: t.String(),
   min_price: t.Number(),
   min_price_tradable: t.Nullable(t.Number()),

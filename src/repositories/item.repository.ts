@@ -5,4 +5,11 @@ export abstract class ItemRepository {
   static async getAll(): Promise<Item[]> {
     return sql`SELECT * FROM items;`
   }
+
+  static async getItemByItemid(itemId: number): Promise<Item | null> {
+    const [item]: [Item?] =
+      await sql`SELECT * FROM items WHERE item_id = ${itemId}`
+
+    return item ?? null
+  }
 }

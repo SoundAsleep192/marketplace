@@ -9,6 +9,6 @@ async function insertData(pathToDataFile, tableName, sql) {
   const items = await file.json()
 
   await sql`
-    insert into ${sql(tableName)} ${sql(items)}
+    INSERT INTO ${sql(tableName)} ${sql(items)}
   `
 }

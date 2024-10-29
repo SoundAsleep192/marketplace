@@ -23,7 +23,7 @@ export const userController = new Elysia({ prefix: '/user' })
 
       await UserService.createUserSession(user, sessionKey)
 
-      token.value = sessionKey
+      token.value = String(sessionKey)
 
       return {
         success: true,
@@ -32,7 +32,6 @@ export const userController = new Elysia({ prefix: '/user' })
     },
     {
       body: 'signIn',
-      cookie: 'session',
     }
   )
   .post(
