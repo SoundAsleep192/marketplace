@@ -1,0 +1,32 @@
+[
+  {
+    "username": "s.hawking",
+    "password": "$argon2id$v=19$m=65536,t=2,p=1$uyxrVDu2dURNMOfjOkmdVOZZDf0psXSiWTXwkoywzWI$TUgKmBMnZ5KBXzOnvV8H0XkaLnFQJ2+Xe/7C61k0ndQ",
+    "balance": 1000
+  },
+  {
+    "username": "b.obama",
+    "password": "$argon2id$v=19$m=65536,t=2,p=1$cf9+iaTUYS0602ib/pcCWmdH6pBCBZOQ/JzYE4Xi+Pw$1p0r2fC6TjaBP59zdsr2JkBHE0T8BQP6rdjiUJb8z3o",
+    "balance": 1000
+  },
+  {
+    "username": "j.stalin",
+    "password": "$argon2id$v=19$m=65536,t=2,p=1$XiTxqwfGOHc2ly0dcCo4DvjQmEa7j5sA8TEPHp0bp/A$gVxRoeDYgeNkdW+bdQlMHU+rs/MaZSMVlnpGBpnkpyw",
+    "balance": 1000
+  },
+  {
+    "username": "a.hitler",
+    "password": "$argon2id$v=19$m=65536,t=2,p=1$pDy4DtCBSHMSZI5geKkij18KL/9lBt4uj4wUX4qcY4o$j2uTA1NBbv8Lna4b2CvPWe79aMe8rBbs3k5CwrxrUu8",
+    "balance": 1000
+  },
+  {
+    "username": "s.gojo",
+    "password": "$argon2id$v=19$m=65536,t=2,p=1$IYfZFDfwSYjptH5mn/ljPqfrB5WzINv81ritGv+wCJs$ota49T5YsDCdRG9mIv/eju2hZLRFZ9yhUgzHh42M0Zc",
+    "balance": 1000
+  },
+  {
+    "username": "r.sukuna",
+    "password": "$argon2id$v=19$m=65536,t=2,p=1$Ru8kXoqHMdiLvSxbzbSGXr/LWe99LJ+be08S8OVUZY4$kNmw2f5qWBlDUbOmxe9DCztBhl8wpX3J5n70XP/m2NE",
+    "balance": 1000
+  }
+]

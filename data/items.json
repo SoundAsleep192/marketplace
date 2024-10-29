@@ -1,0 +1,6002 @@
+[
+  {
+    "name": "10 Year Birthday Sticker Capsule",
+    "min_price": 0.9,
+    "min_price_tradable": 0.92,
+    "quantity": 313
+  },
+  {
+    "name": "1st Lieutenant Farlow | SWAT",
+    "min_price": 7.31,
+    "min_price_tradable": 6.53,
+    "quantity": 196
+  },
+  {
+    "name": "2020 RMR Challengers",
+    "min_price": 0.16,
+    "min_price_tradable": 0.18,
+    "quantity": 1308
+  },
+  {
+    "name": "2020 RMR Contenders",
+    "min_price": 0.23,
+    "min_price_tradable": 0.25,
+    "quantity": 1083
+  },
+  {
+    "name": "2020 RMR Legends",
+    "min_price": 0.16,
+    "min_price_tradable": 0.15,
+    "quantity": 856
+  },
+  {
+    "name": "2021 Community Sticker Capsule",
+    "min_price": 0.93,
+    "min_price_tradable": 0.76,
+    "quantity": 33
+  },
+  {
+    "name": "3rd Commando Company | KSK",
+    "min_price": 10.34,
+    "min_price_tradable": 8.53,
+    "quantity": 388
+  },
+  {
+    "name": "Aces High Pin",
+    "min_price": 7.77,
+    "min_price_tradable": 5.77,
+    "quantity": 166
+  },
+  {
+    "name": "AK-47 | Aquamarine Revenge (Battle-Scarred)",
+    "min_price": 18.62,
+    "min_price_tradable": 15.88,
+    "quantity": 13
+  },
+  {
+    "name": "AK-47 | Aquamarine Revenge (Factory New)",
+    "min_price": 125.51,
+    "min_price_tradable": 96,
+    "quantity": 43
+  },
+  {
+    "name": "AK-47 | Aquamarine Revenge (Field-Tested)",
+    "min_price": 42.23,
+    "min_price_tradable": 31.36,
+    "quantity": 63
+  },
+  {
+    "name": "AK-47 | Aquamarine Revenge (Minimal Wear)",
+    "min_price": 81.21,
+    "min_price_tradable": 60.74,
+    "quantity": 55
+  },
+  {
+    "name": "AK-47 | Aquamarine Revenge (Well-Worn)",
+    "min_price": 24.15,
+    "min_price_tradable": 17.63,
+    "quantity": 11
+  },
+  {
+    "name": "AK-47 | Asiimov (Battle-Scarred)",
+    "min_price": 23.58,
+    "min_price_tradable": 21.3,
+    "quantity": 16
+  },
+  {
+    "name": "AK-47 | Asiimov (Factory New)",
+    "min_price": 209.56,
+    "min_price_tradable": 169.47,
+    "quantity": 34
+  },
+  {
+    "name": "AK-47 | Asiimov (Field-Tested)",
+    "min_price": 34.22,
+    "min_price_tradable": 25.29,
+    "quantity": 262
+  },
+  {
+    "name": "AK-47 | Asiimov (Minimal Wear)",
+    "min_price": 68.06,
+    "min_price_tradable": 52,
+    "quantity": 174
+  },
+  {
+    "name": "AK-47 | Asiimov (Well-Worn)",
+    "min_price": 33.75,
+    "min_price_tradable": 25.54,
+    "quantity": 18
+  },
+  {
+    "name": "AK-47 | Baroque Purple (Battle-Scarred)",
+    "min_price": 6.5,
+    "min_price_tradable": 5.01,
+    "quantity": 44
+  },
+  {
+    "name": "AK-47 | Baroque Purple (Factory New)",
+    "min_price": 16.89,
+    "min_price_tradable": 14.87,
+    "quantity": 39
+  },
+  {
+    "name": "AK-47 | Baroque Purple (Field-Tested)",
+    "min_price": 6.88,
+    "min_price_tradable": 5.25,
+    "quantity": 199
+  },
+  {
+    "name": "AK-47 | Baroque Purple (Minimal Wear)",
+    "min_price": 7.76,
+    "min_price_tradable": 7.59,
+    "quantity": 42
+  },
+  {
+    "name": "AK-47 | Baroque Purple (Well-Worn)",
+    "min_price": 6.46,
+    "min_price_tradable": 6.46,
+    "quantity": 30
+  },
+  {
+    "name": "AK-47 | Black Laminate (Battle-Scarred)",
+    "min_price": 30.24,
+    "min_price_tradable": 29.99,
+    "quantity": 6
+  },
+  {
+    "name": "AK-47 | Black Laminate (Factory New)",
+    "min_price": 143.67,
+    "min_price_tradable": 165,
+    "quantity": 3
+  },
+  {
+    "name": "AK-47 | Black Laminate (Field-Tested)",
+    "min_price": 27.88,
+    "min_price_tradable": 30.3,
+    "quantity": 24
+  },
+  {
+    "name": "AK-47 | Black Laminate (Minimal Wear)",
+    "min_price": 37.92,
+    "min_price_tradable": 29.8,
+    "quantity": 36
+  },
+  {
+    "name": "AK-47 | Black Laminate (Well-Worn)",
+    "min_price": 28.56,
+    "min_price_tradable": 34.91,
+    "quantity": 3
+  },
+  {
+    "name": "AK-47 | Bloodsport (Factory New)",
+    "min_price": 159.26,
+    "min_price_tradable": 117.61,
+    "quantity": 102
+  },
+  {
+    "name": "AK-47 | Bloodsport (Field-Tested)",
+    "min_price": 131.4,
+    "min_price_tradable": 98.99,
+    "quantity": 92
+  },
+  {
+    "name": "AK-47 | Bloodsport (Minimal Wear)",
+    "min_price": 139.86,
+    "min_price_tradable": 105.97,
+    "quantity": 99
+  },
+  {
+    "name": "AK-47 | Bloodsport (Well-Worn)",
+    "min_price": 120.32,
+    "min_price_tradable": 93,
+    "quantity": 13
+  },
+  {
+    "name": "AK-47 | Blue Laminate (Factory New)",
+    "min_price": 15.35,
+    "min_price_tradable": 11.62,
+    "quantity": 168
+  },
+  {
+    "name": "AK-47 | Blue Laminate (Field-Tested)",
+    "min_price": 11.66,
+    "min_price_tradable": 9,
+    "quantity": 108
+  },
+  {
+    "name": "AK-47 | Blue Laminate (Minimal Wear)",
+    "min_price": 12.77,
+    "min_price_tradable": 10.11,
+    "quantity": 170
+  },
+  {
+    "name": "AK-47 | Blue Laminate (Well-Worn)",
+    "min_price": 14.34,
+    "min_price_tradable": 13.07,
+    "quantity": 8
+  },
+  {
+    "name": "AK-47 | B the Monster (Battle-Scarred)",
+    "min_price": 104.89,
+    "min_price_tradable": 97.55,
+    "quantity": 6
+  },
+  {
+    "name": "AK-47 | B the Monster (Factory New)",
+    "min_price": 825.14,
+    "min_price_tradable": 740.94,
+    "quantity": 9
+  },
+  {
+    "name": "AK-47 | B the Monster (Field-Tested)",
+    "min_price": 188.76,
+    "min_price_tradable": 173.19,
+    "quantity": 26
+  },
+  {
+    "name": "AK-47 | B the Monster (Minimal Wear)",
+    "min_price": 399.78,
+    "min_price_tradable": 333.85,
+    "quantity": 20
+  },
+  {
+    "name": "AK-47 | B the Monster (Well-Worn)",
+    "min_price": 173.33,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AK-47 | Cartel (Battle-Scarred)",
+    "min_price": 11.28,
+    "min_price_tradable": 8.29,
+    "quantity": 12
+  },
+  {
+    "name": "AK-47 | Cartel (Factory New)",
+    "min_price": 29.6,
+    "min_price_tradable": 22.07,
+    "quantity": 31
+  },
+  {
+    "name": "AK-47 | Cartel (Field-Tested)",
+    "min_price": 11.55,
+    "min_price_tradable": 9.56,
+    "quantity": 35
+  },
+  {
+    "name": "AK-47 | Cartel (Minimal Wear)",
+    "min_price": 15.3,
+    "min_price_tradable": 14,
+    "quantity": 43
+  },
+  {
+    "name": "AK-47 | Cartel (Well-Worn)",
+    "min_price": 15.68,
+    "min_price_tradable": 14.75,
+    "quantity": 11
+  },
+  {
+    "name": "AK-47 | Case Hardened (Battle-Scarred)",
+    "min_price": 1368.41,
+    "min_price_tradable": 152.53,
+    "quantity": 48
+  },
+  {
+    "name": "AK-47 | Case Hardened (Factory New)",
+    "min_price": 3490.86,
+    "min_price_tradable": 300.39,
+    "quantity": 42
+  },
+  {
+    "name": "AK-47 | Case Hardened (Field-Tested)",
+    "min_price": 1644.14,
+    "min_price_tradable": 190.36,
+    "quantity": 97
+  },
+  {
+    "name": "AK-47 | Case Hardened (Minimal Wear)",
+    "min_price": 2947,
+    "min_price_tradable": 241.96,
+    "quantity": 119
+  },
+  {
+    "name": "AK-47 | Case Hardened (Well-Worn)",
+    "min_price": 1473.68,
+    "min_price_tradable": 161.81,
+    "quantity": 45
+  },
+  {
+    "name": "AK-47 | Crossfade (Battle-Scarred)",
+    "min_price": 1.77,
+    "min_price_tradable": 1.76,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Crossfade (Factory New)",
+    "min_price": 5.66,
+    "min_price_tradable": 6.38,
+    "quantity": 22
+  },
+  {
+    "name": "AK-47 | Crossfade (Field-Tested)",
+    "min_price": 2.59,
+    "min_price_tradable": 2,
+    "quantity": 16
+  },
+  {
+    "name": "AK-47 | Crossfade (Minimal Wear)",
+    "min_price": 3.74,
+    "min_price_tradable": 3.77,
+    "quantity": 21
+  },
+  {
+    "name": "AK-47 | Crossfade (Well-Worn)",
+    "min_price": 2.8,
+    "min_price_tradable": 2.47,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Elite Build (Battle-Scarred)",
+    "min_price": 1.15,
+    "min_price_tradable": 0.83,
+    "quantity": 204
+  },
+  {
+    "name": "AK-47 | Elite Build (Factory New)",
+    "min_price": 6.19,
+    "min_price_tradable": 5.14,
+    "quantity": 108
+  },
+  {
+    "name": "AK-47 | Elite Build (Field-Tested)",
+    "min_price": 1.52,
+    "min_price_tradable": 1.11,
+    "quantity": 547
+  },
+  {
+    "name": "AK-47 | Elite Build (Minimal Wear)",
+    "min_price": 2.4,
+    "min_price_tradable": 1.83,
+    "quantity": 340
+  },
+  {
+    "name": "AK-47 | Elite Build (Well-Worn)",
+    "min_price": 1.19,
+    "min_price_tradable": 0.87,
+    "quantity": 449
+  },
+  {
+    "name": "AK-47 | Emerald Pinstripe (Battle-Scarred)",
+    "min_price": 2.57,
+    "min_price_tradable": 2.12,
+    "quantity": 45
+  },
+  {
+    "name": "AK-47 | Emerald Pinstripe (Factory New)",
+    "min_price": 8.37,
+    "min_price_tradable": 7.97,
+    "quantity": 109
+  },
+  {
+    "name": "AK-47 | Emerald Pinstripe (Field-Tested)",
+    "min_price": 2.83,
+    "min_price_tradable": 2.15,
+    "quantity": 195
+  },
+  {
+    "name": "AK-47 | Emerald Pinstripe (Minimal Wear)",
+    "min_price": 4.46,
+    "min_price_tradable": 3.78,
+    "quantity": 134
+  },
+  {
+    "name": "AK-47 | Emerald Pinstripe (Well-Worn)",
+    "min_price": 2.56,
+    "min_price_tradable": 2.69,
+    "quantity": 32
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Battle-Scarred)",
+    "min_price": 536.49,
+    "min_price_tradable": 425.59,
+    "quantity": 7
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Factory New)",
+    "min_price": 2365.98,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Field-Tested)",
+    "min_price": 865.53,
+    "min_price_tradable": 699.58,
+    "quantity": 45
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Minimal Wear)",
+    "min_price": 1244.51,
+    "min_price_tradable": 1030.61,
+    "quantity": 18
+  },
+  {
+    "name": "AK-47 | Fire Serpent (Well-Worn)",
+    "min_price": 766.1,
+    "min_price_tradable": 700,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | First Class (Battle-Scarred)",
+    "min_price": 75.83,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AK-47 | First Class (Factory New)",
+    "min_price": 181.7,
+    "min_price_tradable": 145,
+    "quantity": 3
+  },
+  {
+    "name": "AK-47 | First Class (Field-Tested)",
+    "min_price": 82.5,
+    "min_price_tradable": 100,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | First Class (Minimal Wear)",
+    "min_price": 118.36,
+    "min_price_tradable": 99.09,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | First Class (Well-Worn)",
+    "min_price": 79.09,
+    "min_price_tradable": 115,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Frontside Misty (Battle-Scarred)",
+    "min_price": 10.24,
+    "min_price_tradable": 7.94,
+    "quantity": 15
+  },
+  {
+    "name": "AK-47 | Frontside Misty (Factory New)",
+    "min_price": 89.39,
+    "min_price_tradable": 64.99,
+    "quantity": 51
+  },
+  {
+    "name": "AK-47 | Frontside Misty (Field-Tested)",
+    "min_price": 14.03,
+    "min_price_tradable": 11.89,
+    "quantity": 158
+  },
+  {
+    "name": "AK-47 | Frontside Misty (Minimal Wear)",
+    "min_price": 28.96,
+    "min_price_tradable": 23.43,
+    "quantity": 61
+  },
+  {
+    "name": "AK-47 | Frontside Misty (Well-Worn)",
+    "min_price": 13.07,
+    "min_price_tradable": 10.99,
+    "quantity": 18
+  },
+  {
+    "name": "AK-47 | Fuel Injector (Battle-Scarred)",
+    "min_price": 124.06,
+    "min_price_tradable": 104.74,
+    "quantity": 13
+  },
+  {
+    "name": "AK-47 | Fuel Injector (Factory New)",
+    "min_price": 435.71,
+    "min_price_tradable": 342.75,
+    "quantity": 14
+  },
+  {
+    "name": "AK-47 | Fuel Injector (Field-Tested)",
+    "min_price": 188.1,
+    "min_price_tradable": 145.46,
+    "quantity": 39
+  },
+  {
+    "name": "AK-47 | Fuel Injector (Minimal Wear)",
+    "min_price": 245.08,
+    "min_price_tradable": 188.2,
+    "quantity": 39
+  },
+  {
+    "name": "AK-47 | Fuel Injector (Well-Worn)",
+    "min_price": 145.53,
+    "min_price_tradable": 107.37,
+    "quantity": 20
+  },
+  {
+    "name": "AK-47 | Gold Arabesque (Battle-Scarred)",
+    "min_price": 1584.21,
+    "min_price_tradable": 1570.54,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Gold Arabesque (Factory New)",
+    "min_price": 3157.16,
+    "min_price_tradable": 2813.33,
+    "quantity": 11
+  },
+  {
+    "name": "AK-47 | Gold Arabesque (Field-Tested)",
+    "min_price": 2090.56,
+    "min_price_tradable": 1734.88,
+    "quantity": 6
+  },
+  {
+    "name": "AK-47 | Gold Arabesque (Minimal Wear)",
+    "min_price": 2609.15,
+    "min_price_tradable": 2419.46,
+    "quantity": 5
+  },
+  {
+    "name": "AK-47 | Gold Arabesque (Well-Worn)",
+    "min_price": 1795.13,
+    "min_price_tradable": 2156.06,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Green Laminate (Factory New)",
+    "min_price": 23.34,
+    "min_price_tradable": 20.42,
+    "quantity": 35
+  },
+  {
+    "name": "AK-47 | Green Laminate (Field-Tested)",
+    "min_price": 15.33,
+    "min_price_tradable": 12.27,
+    "quantity": 16
+  },
+  {
+    "name": "AK-47 | Green Laminate (Minimal Wear)",
+    "min_price": 17.17,
+    "min_price_tradable": 14.76,
+    "quantity": 25
+  },
+  {
+    "name": "AK-47 | Green Laminate (Well-Worn)",
+    "min_price": 25.95,
+    "min_price_tradable": 30.38,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Head Shot (Battle-Scarred)",
+    "min_price": 5.38,
+    "min_price_tradable": 4.84,
+    "quantity": 26
+  },
+  {
+    "name": "AK-47 | Head Shot (Factory New)",
+    "min_price": 76.6,
+    "min_price_tradable": 60.09,
+    "quantity": 40
+  },
+  {
+    "name": "AK-47 | Head Shot (Field-Tested)",
+    "min_price": 8.96,
+    "min_price_tradable": 8.08,
+    "quantity": 163
+  },
+  {
+    "name": "AK-47 | Head Shot (Minimal Wear)",
+    "min_price": 20.89,
+    "min_price_tradable": 22.87,
+    "quantity": 148
+  },
+  {
+    "name": "AK-47 | Head Shot (Well-Worn)",
+    "min_price": 6.81,
+    "min_price_tradable": 5.2,
+    "quantity": 36
+  },
+  {
+    "name": "AK-47 | Hydroponic (Battle-Scarred)",
+    "min_price": 526.69,
+    "min_price_tradable": 421.61,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Hydroponic (Factory New)",
+    "min_price": 2244.36,
+    "min_price_tradable": 1856.37,
+    "quantity": 9
+  },
+  {
+    "name": "AK-47 | Hydroponic (Field-Tested)",
+    "min_price": 974.11,
+    "min_price_tradable": 780,
+    "quantity": 7
+  },
+  {
+    "name": "AK-47 | Hydroponic (Minimal Wear)",
+    "min_price": 1520.46,
+    "min_price_tradable": 1327.94,
+    "quantity": 7
+  },
+  {
+    "name": "AK-47 | Hydroponic (Well-Worn)",
+    "min_price": 808.35,
+    "min_price_tradable": 695.92,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Battle-Scarred)",
+    "min_price": 4.77,
+    "min_price_tradable": 3.51,
+    "quantity": 38
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Factory New)",
+    "min_price": 17.17,
+    "min_price_tradable": 13.1,
+    "quantity": 118
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Field-Tested)",
+    "min_price": 5.47,
+    "min_price_tradable": 4.07,
+    "quantity": 441
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Minimal Wear)",
+    "min_price": 9.66,
+    "min_price_tradable": 7.27,
+    "quantity": 247
+  },
+  {
+    "name": "AK-47 | Ice Coaled (Well-Worn)",
+    "min_price": 5.74,
+    "min_price_tradable": 4.62,
+    "quantity": 38
+  },
+  {
+    "name": "AK-47 | Inheritance (Battle-Scarred)",
+    "min_price": 73.13,
+    "min_price_tradable": 61.5,
+    "quantity": 22
+  },
+  {
+    "name": "AK-47 | Inheritance (Factory New)",
+    "min_price": 201.54,
+    "min_price_tradable": 158.75,
+    "quantity": 31
+  },
+  {
+    "name": "AK-47 | Inheritance (Field-Tested)",
+    "min_price": 96.25,
+    "min_price_tradable": 70,
+    "quantity": 107
+  },
+  {
+    "name": "AK-47 | Inheritance (Minimal Wear)",
+    "min_price": 120.08,
+    "min_price_tradable": 93.78,
+    "quantity": 72
+  },
+  {
+    "name": "AK-47 | Inheritance (Well-Worn)",
+    "min_price": 87.24,
+    "min_price_tradable": 73.06,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | Jaguar (Battle-Scarred)",
+    "min_price": 45.07,
+    "min_price_tradable": 33.75,
+    "quantity": 10
+  },
+  {
+    "name": "AK-47 | Jaguar (Factory New)",
+    "min_price": 201.69,
+    "min_price_tradable": 155.55,
+    "quantity": 7
+  },
+  {
+    "name": "AK-47 | Jaguar (Field-Tested)",
+    "min_price": 63.9,
+    "min_price_tradable": 50.54,
+    "quantity": 12
+  },
+  {
+    "name": "AK-47 | Jaguar (Minimal Wear)",
+    "min_price": 104.89,
+    "min_price_tradable": 87.23,
+    "quantity": 19
+  },
+  {
+    "name": "AK-47 | Jaguar (Well-Worn)",
+    "min_price": 46.34,
+    "min_price_tradable": 34.7,
+    "quantity": 12
+  },
+  {
+    "name": "AK-47 | Jet Set (Battle-Scarred)",
+    "min_price": 237.56,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AK-47 | Jet Set (Factory New)",
+    "min_price": 750.66,
+    "min_price_tradable": 884,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | Jet Set (Field-Tested)",
+    "min_price": 328.7,
+    "min_price_tradable": 267.29,
+    "quantity": 6
+  },
+  {
+    "name": "AK-47 | Jet Set (Minimal Wear)",
+    "min_price": 427,
+    "min_price_tradable": 360,
+    "quantity": 7
+  },
+  {
+    "name": "AK-47 | Jet Set (Well-Worn)",
+    "min_price": 300.15,
+    "min_price_tradable": 251.54,
+    "quantity": 3
+  },
+  {
+    "name": "AK-47 | Jungle Spray (Battle-Scarred)",
+    "min_price": 5.25,
+    "min_price_tradable": 5.32,
+    "quantity": 9
+  },
+  {
+    "name": "AK-47 | Jungle Spray (Factory New)",
+    "min_price": 125.09,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AK-47 | Jungle Spray (Field-Tested)",
+    "min_price": 5.11,
+    "min_price_tradable": 3.66,
+    "quantity": 20
+  },
+  {
+    "name": "AK-47 | Jungle Spray (Minimal Wear)",
+    "min_price": 12.2,
+    "min_price_tradable": 11.53,
+    "quantity": 15
+  },
+  {
+    "name": "AK-47 | Jungle Spray (Well-Worn)",
+    "min_price": 4.87,
+    "min_price_tradable": 3.61,
+    "quantity": 6
+  },
+  {
+    "name": "AK-47 | Leet Museo (Battle-Scarred)",
+    "min_price": 17.84,
+    "min_price_tradable": 15,
+    "quantity": 9
+  },
+  {
+    "name": "AK-47 | Leet Museo (Factory New)",
+    "min_price": 91.36,
+    "min_price_tradable": 72.48,
+    "quantity": 22
+  },
+  {
+    "name": "AK-47 | Leet Museo (Field-Tested)",
+    "min_price": 19.97,
+    "min_price_tradable": 17,
+    "quantity": 82
+  },
+  {
+    "name": "AK-47 | Leet Museo (Minimal Wear)",
+    "min_price": 42.28,
+    "min_price_tradable": 33.63,
+    "quantity": 40
+  },
+  {
+    "name": "AK-47 | Leet Museo (Well-Worn)",
+    "min_price": 18.78,
+    "min_price_tradable": 16.3,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Legion of Anubis (Battle-Scarred)",
+    "min_price": 5.32,
+    "min_price_tradable": 3.92,
+    "quantity": 60
+  },
+  {
+    "name": "AK-47 | Legion of Anubis (Factory New)",
+    "min_price": 16.82,
+    "min_price_tradable": 13.05,
+    "quantity": 124
+  },
+  {
+    "name": "AK-47 | Legion of Anubis (Field-Tested)",
+    "min_price": 6.36,
+    "min_price_tradable": 4.75,
+    "quantity": 363
+  },
+  {
+    "name": "AK-47 | Legion of Anubis (Minimal Wear)",
+    "min_price": 9.21,
+    "min_price_tradable": 7.72,
+    "quantity": 283
+  },
+  {
+    "name": "AK-47 | Legion of Anubis (Well-Worn)",
+    "min_price": 6.43,
+    "min_price_tradable": 5,
+    "quantity": 48
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Battle-Scarred)",
+    "min_price": 16.28,
+    "min_price_tradable": 11.64,
+    "quantity": 17
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Factory New)",
+    "min_price": 88.2,
+    "min_price_tradable": 74.11,
+    "quantity": 42
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Field-Tested)",
+    "min_price": 17.7,
+    "min_price_tradable": 14.06,
+    "quantity": 118
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Minimal Wear)",
+    "min_price": 41.16,
+    "min_price_tradable": 30.94,
+    "quantity": 87
+  },
+  {
+    "name": "AK-47 | Neon Revolution (Well-Worn)",
+    "min_price": 21.95,
+    "min_price_tradable": 17.58,
+    "quantity": 11
+  },
+  {
+    "name": "AK-47 | Neon Rider (Battle-Scarred)",
+    "min_price": 26.84,
+    "min_price_tradable": 25.5,
+    "quantity": 15
+  },
+  {
+    "name": "AK-47 | Neon Rider (Factory New)",
+    "min_price": 153.35,
+    "min_price_tradable": 125.63,
+    "quantity": 31
+  },
+  {
+    "name": "AK-47 | Neon Rider (Field-Tested)",
+    "min_price": 50.44,
+    "min_price_tradable": 37.85,
+    "quantity": 117
+  },
+  {
+    "name": "AK-47 | Neon Rider (Minimal Wear)",
+    "min_price": 97.43,
+    "min_price_tradable": 71.2,
+    "quantity": 80
+  },
+  {
+    "name": "AK-47 | Neon Rider (Well-Worn)",
+    "min_price": 47.4,
+    "min_price_tradable": 34.21,
+    "quantity": 10
+  },
+  {
+    "name": "AK-47 | Nightwish (Battle-Scarred)",
+    "min_price": 5.65,
+    "min_price_tradable": 4.29,
+    "quantity": 75
+  },
+  {
+    "name": "AK-47 | Nightwish (Factory New)",
+    "min_price": 71.6,
+    "min_price_tradable": 54.92,
+    "quantity": 67
+  },
+  {
+    "name": "AK-47 | Nightwish (Field-Tested)",
+    "min_price": 9.68,
+    "min_price_tradable": 7.94,
+    "quantity": 153
+  },
+  {
+    "name": "AK-47 | Nightwish (Minimal Wear)",
+    "min_price": 18.8,
+    "min_price_tradable": 16.45,
+    "quantity": 112
+  },
+  {
+    "name": "AK-47 | Nightwish (Well-Worn)",
+    "min_price": 7.53,
+    "min_price_tradable": 5.57,
+    "quantity": 83
+  },
+  {
+    "name": "AK-47 | Olive Polycam (Battle-Scarred)",
+    "min_price": 0.16,
+    "min_price_tradable": 0.11,
+    "quantity": 7
+  },
+  {
+    "name": "AK-47 | Olive Polycam (Factory New)",
+    "min_price": 0.66,
+    "min_price_tradable": 0.5,
+    "quantity": 35
+  },
+  {
+    "name": "AK-47 | Olive Polycam (Field-Tested)",
+    "min_price": 0.13,
+    "min_price_tradable": 0.09,
+    "quantity": 116
+  },
+  {
+    "name": "AK-47 | Olive Polycam (Minimal Wear)",
+    "min_price": 0.28,
+    "min_price_tradable": 0.23,
+    "quantity": 42
+  },
+  {
+    "name": "AK-47 | Olive Polycam (Well-Worn)",
+    "min_price": 0.18,
+    "min_price_tradable": 0.15,
+    "quantity": 12
+  },
+  {
+    "name": "AK-47 | Orbit Mk01 (Battle-Scarred)",
+    "min_price": 14.33,
+    "min_price_tradable": 12.29,
+    "quantity": 5
+  },
+  {
+    "name": "AK-47 | Orbit Mk01 (Factory New)",
+    "min_price": 28.58,
+    "min_price_tradable": 22.81,
+    "quantity": 30
+  },
+  {
+    "name": "AK-47 | Orbit Mk01 (Field-Tested)",
+    "min_price": 15.35,
+    "min_price_tradable": 13.36,
+    "quantity": 36
+  },
+  {
+    "name": "AK-47 | Orbit Mk01 (Minimal Wear)",
+    "min_price": 18.35,
+    "min_price_tradable": 16.35,
+    "quantity": 21
+  },
+  {
+    "name": "AK-47 | Orbit Mk01 (Well-Worn)",
+    "min_price": 14.88,
+    "min_price_tradable": 13.75,
+    "quantity": 6
+  },
+  {
+    "name": "AK-47 | Panthera onca (Battle-Scarred)",
+    "min_price": 142.85,
+    "min_price_tradable": 133.14,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Panthera onca (Factory New)",
+    "min_price": 332.76,
+    "min_price_tradable": 250.63,
+    "quantity": 23
+  },
+  {
+    "name": "AK-47 | Panthera onca (Field-Tested)",
+    "min_price": 195.85,
+    "min_price_tradable": 174.99,
+    "quantity": 5
+  },
+  {
+    "name": "AK-47 | Panthera onca (Minimal Wear)",
+    "min_price": 262.69,
+    "min_price_tradable": 211.67,
+    "quantity": 8
+  },
+  {
+    "name": "AK-47 | Panthera onca (Well-Worn)",
+    "min_price": 126.18,
+    "min_price_tradable": 146.63,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | Phantom Disruptor (Battle-Scarred)",
+    "min_price": 3.65,
+    "min_price_tradable": 2.83,
+    "quantity": 44
+  },
+  {
+    "name": "AK-47 | Phantom Disruptor (Factory New)",
+    "min_price": 10.98,
+    "min_price_tradable": 8.13,
+    "quantity": 64
+  },
+  {
+    "name": "AK-47 | Phantom Disruptor (Field-Tested)",
+    "min_price": 4.14,
+    "min_price_tradable": 3.1,
+    "quantity": 343
+  },
+  {
+    "name": "AK-47 | Phantom Disruptor (Minimal Wear)",
+    "min_price": 6.56,
+    "min_price_tradable": 4.78,
+    "quantity": 195
+  },
+  {
+    "name": "AK-47 | Phantom Disruptor (Well-Worn)",
+    "min_price": 5.18,
+    "min_price_tradable": 4.11,
+    "quantity": 32
+  },
+  {
+    "name": "AK-47 | Point Disarray (Battle-Scarred)",
+    "min_price": 9.35,
+    "min_price_tradable": 6.87,
+    "quantity": 28
+  },
+  {
+    "name": "AK-47 | Point Disarray (Factory New)",
+    "min_price": 41.43,
+    "min_price_tradable": 30.87,
+    "quantity": 47
+  },
+  {
+    "name": "AK-47 | Point Disarray (Field-Tested)",
+    "min_price": 9.65,
+    "min_price_tradable": 7.79,
+    "quantity": 313
+  },
+  {
+    "name": "AK-47 | Point Disarray (Minimal Wear)",
+    "min_price": 18.02,
+    "min_price_tradable": 14.82,
+    "quantity": 54
+  },
+  {
+    "name": "AK-47 | Point Disarray (Well-Worn)",
+    "min_price": 11.02,
+    "min_price_tradable": 8.36,
+    "quantity": 14
+  },
+  {
+    "name": "AK-47 | Predator (Battle-Scarred)",
+    "min_price": 18.22,
+    "min_price_tradable": 17.05,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | Predator (Factory New)",
+    "min_price": 68.97,
+    "min_price_tradable": 61.38,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Predator (Field-Tested)",
+    "min_price": 21.49,
+    "min_price_tradable": 19.9,
+    "quantity": 10
+  },
+  {
+    "name": "AK-47 | Predator (Minimal Wear)",
+    "min_price": 23.33,
+    "min_price_tradable": 39.9,
+    "quantity": 8
+  },
+  {
+    "name": "AK-47 | Predator (Well-Worn)",
+    "min_price": 20.44,
+    "min_price_tradable": 22.22,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Rat Rod (Battle-Scarred)",
+    "min_price": 3.37,
+    "min_price_tradable": 3.25,
+    "quantity": 14
+  },
+  {
+    "name": "AK-47 | Rat Rod (Factory New)",
+    "min_price": 12.28,
+    "min_price_tradable": 9.54,
+    "quantity": 45
+  },
+  {
+    "name": "AK-47 | Rat Rod (Field-Tested)",
+    "min_price": 3.54,
+    "min_price_tradable": 2.94,
+    "quantity": 145
+  },
+  {
+    "name": "AK-47 | Rat Rod (Minimal Wear)",
+    "min_price": 5.34,
+    "min_price_tradable": 3.9,
+    "quantity": 106
+  },
+  {
+    "name": "AK-47 | Rat Rod (Well-Worn)",
+    "min_price": 3.36,
+    "min_price_tradable": 3.16,
+    "quantity": 30
+  },
+  {
+    "name": "AK-47 | Red Laminate (Battle-Scarred)",
+    "min_price": 45.49,
+    "min_price_tradable": 39.69,
+    "quantity": 6
+  },
+  {
+    "name": "AK-47 | Red Laminate (Factory New)",
+    "min_price": 329.22,
+    "min_price_tradable": 351.67,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Red Laminate (Field-Tested)",
+    "min_price": 49.66,
+    "min_price_tradable": 40.1,
+    "quantity": 45
+  },
+  {
+    "name": "AK-47 | Red Laminate (Minimal Wear)",
+    "min_price": 78.54,
+    "min_price_tradable": 65.64,
+    "quantity": 31
+  },
+  {
+    "name": "AK-47 | Red Laminate (Well-Worn)",
+    "min_price": 51.09,
+    "min_price_tradable": 38.88,
+    "quantity": 9
+  },
+  {
+    "name": "AK-47 | Redline (Battle-Scarred)",
+    "min_price": 17.22,
+    "min_price_tradable": 15.01,
+    "quantity": 21
+  },
+  {
+    "name": "AK-47 | Redline (Field-Tested)",
+    "min_price": 29.74,
+    "min_price_tradable": 22.9,
+    "quantity": 389
+  },
+  {
+    "name": "AK-47 | Redline (Minimal Wear)",
+    "min_price": 136.58,
+    "min_price_tradable": 108,
+    "quantity": 61
+  },
+  {
+    "name": "AK-47 | Redline (Well-Worn)",
+    "min_price": 22.68,
+    "min_price_tradable": 17,
+    "quantity": 20
+  },
+  {
+    "name": "AK-47 | Safari Mesh (Battle-Scarred)",
+    "min_price": 0.07,
+    "min_price_tradable": 0.06,
+    "quantity": 216
+  },
+  {
+    "name": "AK-47 | Safari Mesh (Factory New)",
+    "min_price": 2.01,
+    "min_price_tradable": 1.59,
+    "quantity": 50
+  },
+  {
+    "name": "AK-47 | Safari Mesh (Field-Tested)",
+    "min_price": 0.07,
+    "min_price_tradable": 0.04,
+    "quantity": 1173
+  },
+  {
+    "name": "AK-47 | Safari Mesh (Minimal Wear)",
+    "min_price": 0.19,
+    "min_price_tradable": 0.13,
+    "quantity": 635
+  },
+  {
+    "name": "AK-47 | Safari Mesh (Well-Worn)",
+    "min_price": 0.09,
+    "min_price_tradable": 0.06,
+    "quantity": 191
+  },
+  {
+    "name": "AK-47 | Safety Net (Battle-Scarred)",
+    "min_price": 3.25,
+    "min_price_tradable": 2.75,
+    "quantity": 8
+  },
+  {
+    "name": "AK-47 | Safety Net (Factory New)",
+    "min_price": 6.27,
+    "min_price_tradable": 4.64,
+    "quantity": 127
+  },
+  {
+    "name": "AK-47 | Safety Net (Field-Tested)",
+    "min_price": 2.83,
+    "min_price_tradable": 2.18,
+    "quantity": 59
+  },
+  {
+    "name": "AK-47 | Safety Net (Minimal Wear)",
+    "min_price": 4.27,
+    "min_price_tradable": 3.7,
+    "quantity": 42
+  },
+  {
+    "name": "AK-47 | Safety Net (Well-Worn)",
+    "min_price": 3.42,
+    "min_price_tradable": 3.16,
+    "quantity": 13
+  },
+  {
+    "name": "AK-47 | Slate (Battle-Scarred)",
+    "min_price": 2.89,
+    "min_price_tradable": 2.23,
+    "quantity": 260
+  },
+  {
+    "name": "AK-47 | Slate (Factory New)",
+    "min_price": 11.34,
+    "min_price_tradable": 9.26,
+    "quantity": 134
+  },
+  {
+    "name": "AK-47 | Slate (Field-Tested)",
+    "min_price": 3.43,
+    "min_price_tradable": 2.46,
+    "quantity": 716
+  },
+  {
+    "name": "AK-47 | Slate (Minimal Wear)",
+    "min_price": 5.47,
+    "min_price_tradable": 3.98,
+    "quantity": 490
+  },
+  {
+    "name": "AK-47 | Slate (Well-Worn)",
+    "min_price": 2.95,
+    "min_price_tradable": 2.21,
+    "quantity": 212
+  },
+  {
+    "name": "AK-47 | Steel Delta (Battle-Scarred)",
+    "min_price": 1.67,
+    "min_price_tradable": 1.65,
+    "quantity": 50
+  },
+  {
+    "name": "AK-47 | Steel Delta (Factory New)",
+    "min_price": 2.71,
+    "min_price_tradable": 2.5,
+    "quantity": 40
+  },
+  {
+    "name": "AK-47 | Steel Delta (Field-Tested)",
+    "min_price": 1.34,
+    "min_price_tradable": 1,
+    "quantity": 172
+  },
+  {
+    "name": "AK-47 | Steel Delta (Minimal Wear)",
+    "min_price": 1.92,
+    "min_price_tradable": 1.55,
+    "quantity": 106
+  },
+  {
+    "name": "AK-47 | Steel Delta (Well-Worn)",
+    "min_price": 1.85,
+    "min_price_tradable": 1.45,
+    "quantity": 12
+  },
+  {
+    "name": "AK-47 | The Empress (Battle-Scarred)",
+    "min_price": 26.16,
+    "min_price_tradable": 20.91,
+    "quantity": 42
+  },
+  {
+    "name": "AK-47 | The Empress (Factory New)",
+    "min_price": 164.58,
+    "min_price_tradable": 129.57,
+    "quantity": 41
+  },
+  {
+    "name": "AK-47 | The Empress (Field-Tested)",
+    "min_price": 36.9,
+    "min_price_tradable": 29.59,
+    "quantity": 147
+  },
+  {
+    "name": "AK-47 | The Empress (Minimal Wear)",
+    "min_price": 69.18,
+    "min_price_tradable": 50.65,
+    "quantity": 133
+  },
+  {
+    "name": "AK-47 | The Empress (Well-Worn)",
+    "min_price": 30.37,
+    "min_price_tradable": 22.64,
+    "quantity": 48
+  },
+  {
+    "name": "AK-47 | The Outsiders (Battle-Scarred)",
+    "min_price": 9.09,
+    "min_price_tradable": 7.27,
+    "quantity": 26
+  },
+  {
+    "name": "AK-47 | The Outsiders (Factory New)",
+    "min_price": 61.18,
+    "min_price_tradable": 44.8,
+    "quantity": 19
+  },
+  {
+    "name": "AK-47 | The Outsiders (Field-Tested)",
+    "min_price": 17.51,
+    "min_price_tradable": 18,
+    "quantity": 191
+  },
+  {
+    "name": "AK-47 | The Outsiders (Minimal Wear)",
+    "min_price": 25.73,
+    "min_price_tradable": 19.83,
+    "quantity": 99
+  },
+  {
+    "name": "AK-47 | The Outsiders (Well-Worn)",
+    "min_price": 13.15,
+    "min_price_tradable": 9.37,
+    "quantity": 20
+  },
+  {
+    "name": "AK-47 | Uncharted (Battle-Scarred)",
+    "min_price": 0.37,
+    "min_price_tradable": 0.26,
+    "quantity": 180
+  },
+  {
+    "name": "AK-47 | Uncharted (Factory New)",
+    "min_price": 1.3,
+    "min_price_tradable": 0.95,
+    "quantity": 238
+  },
+  {
+    "name": "AK-47 | Uncharted (Field-Tested)",
+    "min_price": 0.34,
+    "min_price_tradable": 0.24,
+    "quantity": 617
+  },
+  {
+    "name": "AK-47 | Uncharted (Minimal Wear)",
+    "min_price": 0.6,
+    "min_price_tradable": 0.43,
+    "quantity": 273
+  },
+  {
+    "name": "AK-47 | Uncharted (Well-Worn)",
+    "min_price": 0.78,
+    "min_price_tradable": 0.57,
+    "quantity": 61
+  },
+  {
+    "name": "AK-47 | Vulcan (Battle-Scarred)",
+    "min_price": 133.07,
+    "min_price_tradable": 107.45,
+    "quantity": 7
+  },
+  {
+    "name": "AK-47 | Vulcan (Factory New)",
+    "min_price": 794.26,
+    "min_price_tradable": 712.54,
+    "quantity": 23
+  },
+  {
+    "name": "AK-47 | Vulcan (Field-Tested)",
+    "min_price": 251.2,
+    "min_price_tradable": 194.99,
+    "quantity": 104
+  },
+  {
+    "name": "AK-47 | Vulcan (Minimal Wear)",
+    "min_price": 482.68,
+    "min_price_tradable": 420,
+    "quantity": 55
+  },
+  {
+    "name": "AK-47 | Vulcan (Well-Worn)",
+    "min_price": 155.85,
+    "min_price_tradable": 113.77,
+    "quantity": 19
+  },
+  {
+    "name": "AK-47 | Wasteland Rebel (Battle-Scarred)",
+    "min_price": 28.58,
+    "min_price_tradable": 23.15,
+    "quantity": 5
+  },
+  {
+    "name": "AK-47 | Wasteland Rebel (Factory New)",
+    "min_price": 196.22,
+    "min_price_tradable": 175,
+    "quantity": 9
+  },
+  {
+    "name": "AK-47 | Wasteland Rebel (Field-Tested)",
+    "min_price": 30.41,
+    "min_price_tradable": 27.49,
+    "quantity": 26
+  },
+  {
+    "name": "AK-47 | Wasteland Rebel (Minimal Wear)",
+    "min_price": 56.6,
+    "min_price_tradable": 46.59,
+    "quantity": 32
+  },
+  {
+    "name": "AK-47 | Wasteland Rebel (Well-Worn)",
+    "min_price": 40.33,
+    "min_price_tradable": 37.98,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Wild Lotus (Battle-Scarred)",
+    "min_price": 3077.5,
+    "min_price_tradable": 2824.31,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Wild Lotus (Factory New)",
+    "min_price": 14405.46,
+    "min_price_tradable": 12659.96,
+    "quantity": 1
+  },
+  {
+    "name": "AK-47 | Wild Lotus (Field-Tested)",
+    "min_price": 8094.86,
+    "min_price_tradable": 6820.84,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Wild Lotus (Minimal Wear)",
+    "min_price": 10776.95,
+    "min_price_tradable": 9971.77,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | Wild Lotus (Well-Worn)",
+    "min_price": 5420.49,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AK-47 | X-Ray (Battle-Scarred)",
+    "min_price": 280.23,
+    "min_price_tradable": 243.6,
+    "quantity": 2
+  },
+  {
+    "name": "AK-47 | X-Ray (Factory New)",
+    "min_price": 2111.63,
+    "min_price_tradable": 1850,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | X-Ray (Field-Tested)",
+    "min_price": 695.49,
+    "min_price_tradable": 610,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | X-Ray (Minimal Wear)",
+    "min_price": 1102,
+    "min_price_tradable": 957,
+    "quantity": 4
+  },
+  {
+    "name": "AK-47 | X-Ray (Well-Worn)",
+    "min_price": 393.88,
+    "min_price_tradable": 308.71,
+    "quantity": 3
+  },
+  {
+    "name": "Alyx Pin",
+    "min_price": 34.26,
+    "min_price_tradable": 27.64,
+    "quantity": 17
+  },
+  {
+    "name": "Ambush Sticker Capsule",
+    "min_price": 0.93,
+    "min_price_tradable": 0.89,
+    "quantity": 38
+  },
+  {
+    "name": "Antwerp 2022 Ancient Souvenir Package",
+    "min_price": 3.37,
+    "min_price_tradable": 3.5,
+    "quantity": 81
+  },
+  {
+    "name": "Antwerp 2022 Challengers Autograph Capsule",
+    "min_price": 0.34,
+    "min_price_tradable": 0.26,
+    "quantity": 966
+  },
+  {
+    "name": "Antwerp 2022 Challengers Sticker Capsule",
+    "min_price": 0.3,
+    "min_price_tradable": 0.27,
+    "quantity": 2407
+  },
+  {
+    "name": "Antwerp 2022 Champions Autograph Capsule",
+    "min_price": 0.28,
+    "min_price_tradable": 0.23,
+    "quantity": 274
+  },
+  {
+    "name": "Antwerp 2022 Contenders Autograph Capsule",
+    "min_price": 0.45,
+    "min_price_tradable": 0.4,
+    "quantity": 1632
+  },
+  {
+    "name": "Antwerp 2022 Contenders Sticker Capsule",
+    "min_price": 0.4,
+    "min_price_tradable": 0.39,
+    "quantity": 2773
+  },
+  {
+    "name": "Antwerp 2022 Dust II Souvenir Package",
+    "min_price": 5.64,
+    "min_price_tradable": 3.89,
+    "quantity": 285
+  },
+  {
+    "name": "Antwerp 2022 Inferno Souvenir Package",
+    "min_price": 2.51,
+    "min_price_tradable": 2.33,
+    "quantity": 74
+  },
+  {
+    "name": "Antwerp 2022 Legends Autograph Capsule",
+    "min_price": 0.33,
+    "min_price_tradable": 0.25,
+    "quantity": 1060
+  },
+  {
+    "name": "Antwerp 2022 Legends Sticker Capsule",
+    "min_price": 0.46,
+    "min_price_tradable": 0.38,
+    "quantity": 5500
+  },
+  {
+    "name": "Antwerp 2022 Mirage Souvenir Package",
+    "min_price": 4.05,
+    "min_price_tradable": 3.2,
+    "quantity": 167
+  },
+  {
+    "name": "Antwerp 2022 Nuke Souvenir Package",
+    "min_price": 2.47,
+    "min_price_tradable": 2.38,
+    "quantity": 54
+  },
+  {
+    "name": "Antwerp 2022 Overpass Souvenir Package",
+    "min_price": 3.68,
+    "min_price_tradable": 3.74,
+    "quantity": 43
+  },
+  {
+    "name": "Antwerp 2022 Vertigo Souvenir Package",
+    "min_price": 4.09,
+    "min_price_tradable": 3.99,
+    "quantity": 54
+  },
+  {
+    "name": "Antwerp 2022 Viewer Pass",
+    "min_price": 15.84,
+    "min_price_tradable": 16.99,
+    "quantity": 3
+  },
+  {
+    "name": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens",
+    "min_price": 25.49,
+    "min_price_tradable": 30.36,
+    "quantity": 11
+  },
+  {
+    "name": "Anubis Collection Package",
+    "min_price": 1.38,
+    "min_price_tradable": 1.2,
+    "quantity": 4478
+  },
+  {
+    "name": "Arno The Overgrown | Guerrilla Warfare",
+    "min_price": 11.02,
+    "min_price_tradable": 9.45,
+    "quantity": 109
+  },
+  {
+    "name": "Aspirant | Gendarmerie Nationale",
+    "min_price": 6.78,
+    "min_price_tradable": 5.39,
+    "quantity": 106
+  },
+  {
+    "name": "Atlanta 2017 Cache Souvenir Package",
+    "min_price": 23.08,
+    "min_price_tradable": 35.33,
+    "quantity": 2
+  },
+  {
+    "name": "Atlanta 2017 Challengers (Holo-Foil)",
+    "min_price": 62.52,
+    "min_price_tradable": 74.51,
+    "quantity": 16
+  },
+  {
+    "name": "Atlanta 2017 Cobblestone Souvenir Package",
+    "min_price": 1557.95,
+    "min_price_tradable": 1299,
+    "quantity": 6
+  },
+  {
+    "name": "Atlanta 2017 Dust II Souvenir Package",
+    "min_price": 22.33,
+    "min_price_tradable": 21.18,
+    "quantity": 2
+  },
+  {
+    "name": "Atlanta 2017 Legends (Holo-Foil)",
+    "min_price": 82.92,
+    "min_price_tradable": 85.05,
+    "quantity": 18
+  },
+  {
+    "name": "Atlanta 2017 Mirage Souvenir Package",
+    "min_price": 23.99,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Atlanta 2017 Nuke Souvenir Package",
+    "min_price": 57.07,
+    "min_price_tradable": 49.98,
+    "quantity": 3
+  },
+  {
+    "name": "Atlanta 2017 Overpass Souvenir Package",
+    "min_price": 37.94,
+    "min_price_tradable": 35,
+    "quantity": 4
+  },
+  {
+    "name": "Atlanta 2017 Train Souvenir Package",
+    "min_price": 11.67,
+    "min_price_tradable": 12,
+    "quantity": 2
+  },
+  {
+    "name": "Audience Participation Parcel",
+    "min_price": 56.05,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Akihabara Accept (Battle-Scarred)",
+    "min_price": 268.82,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Akihabara Accept (Factory New)",
+    "min_price": 3923.74,
+    "min_price_tradable": 3644,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Akihabara Accept (Field-Tested)",
+    "min_price": 587.46,
+    "min_price_tradable": 468.89,
+    "quantity": 4
+  },
+  {
+    "name": "AUG | Akihabara Accept (Minimal Wear)",
+    "min_price": 1396.79,
+    "min_price_tradable": 1406.66,
+    "quantity": 4
+  },
+  {
+    "name": "AUG | Akihabara Accept (Well-Worn)",
+    "min_price": 339.77,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Amber Fade (Factory New)",
+    "min_price": 1.55,
+    "min_price_tradable": 1.49,
+    "quantity": 132
+  },
+  {
+    "name": "AUG | Amber Fade (Field-Tested)",
+    "min_price": 1.06,
+    "min_price_tradable": 0.88,
+    "quantity": 42
+  },
+  {
+    "name": "AUG | Amber Fade (Minimal Wear)",
+    "min_price": 1.18,
+    "min_price_tradable": 1.18,
+    "quantity": 49
+  },
+  {
+    "name": "AUG | Amber Fade (Well-Worn)",
+    "min_price": 1.21,
+    "min_price_tradable": 1.03,
+    "quantity": 9
+  },
+  {
+    "name": "AUG | Amber Slipstream (Battle-Scarred)",
+    "min_price": 0.18,
+    "min_price_tradable": 0.17,
+    "quantity": 9
+  },
+  {
+    "name": "AUG | Amber Slipstream (Factory New)",
+    "min_price": 0.5,
+    "min_price_tradable": 0.39,
+    "quantity": 48
+  },
+  {
+    "name": "AUG | Amber Slipstream (Field-Tested)",
+    "min_price": 0.25,
+    "min_price_tradable": 0.19,
+    "quantity": 49
+  },
+  {
+    "name": "AUG | Amber Slipstream (Minimal Wear)",
+    "min_price": 0.27,
+    "min_price_tradable": 0.22,
+    "quantity": 22
+  },
+  {
+    "name": "AUG | Amber Slipstream (Well-Worn)",
+    "min_price": 0.22,
+    "min_price_tradable": 0.19,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Anodized Navy (Factory New)",
+    "min_price": 22.43,
+    "min_price_tradable": 25.6,
+    "quantity": 16
+  },
+  {
+    "name": "AUG | Anodized Navy (Minimal Wear)",
+    "min_price": 38.47,
+    "min_price_tradable": 849.26,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Arctic Wolf (Battle-Scarred)",
+    "min_price": 1.3,
+    "min_price_tradable": 1.13,
+    "quantity": 10
+  },
+  {
+    "name": "AUG | Arctic Wolf (Factory New)",
+    "min_price": 5.64,
+    "min_price_tradable": 4.42,
+    "quantity": 38
+  },
+  {
+    "name": "AUG | Arctic Wolf (Field-Tested)",
+    "min_price": 1.7,
+    "min_price_tradable": 1.3,
+    "quantity": 47
+  },
+  {
+    "name": "AUG | Arctic Wolf (Minimal Wear)",
+    "min_price": 3.15,
+    "min_price_tradable": 2.7,
+    "quantity": 24
+  },
+  {
+    "name": "AUG | Arctic Wolf (Well-Worn)",
+    "min_price": 1.85,
+    "min_price_tradable": 1.6,
+    "quantity": 5
+  },
+  {
+    "name": "AUG | Aristocrat (Battle-Scarred)",
+    "min_price": 0.64,
+    "min_price_tradable": 0.48,
+    "quantity": 17
+  },
+  {
+    "name": "AUG | Aristocrat (Factory New)",
+    "min_price": 2.21,
+    "min_price_tradable": 1.76,
+    "quantity": 34
+  },
+  {
+    "name": "AUG | Aristocrat (Field-Tested)",
+    "min_price": 0.65,
+    "min_price_tradable": 0.5,
+    "quantity": 47
+  },
+  {
+    "name": "AUG | Aristocrat (Minimal Wear)",
+    "min_price": 1.16,
+    "min_price_tradable": 0.87,
+    "quantity": 43
+  },
+  {
+    "name": "AUG | Aristocrat (Well-Worn)",
+    "min_price": 0.75,
+    "min_price_tradable": 0.79,
+    "quantity": 3
+  },
+  {
+    "name": "AUG | Bengal Tiger (Battle-Scarred)",
+    "min_price": 5.95,
+    "min_price_tradable": 4.38,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Bengal Tiger (Factory New)",
+    "min_price": 31.28,
+    "min_price_tradable": 34.99,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Bengal Tiger (Field-Tested)",
+    "min_price": 6.31,
+    "min_price_tradable": 4.76,
+    "quantity": 11
+  },
+  {
+    "name": "AUG | Bengal Tiger (Minimal Wear)",
+    "min_price": 9.11,
+    "min_price_tradable": 6.82,
+    "quantity": 23
+  },
+  {
+    "name": "AUG | Bengal Tiger (Well-Worn)",
+    "min_price": 5.96,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Carved Jade (Factory New)",
+    "min_price": 15.63,
+    "min_price_tradable": 12.59,
+    "quantity": 105
+  },
+  {
+    "name": "AUG | Carved Jade (Field-Tested)",
+    "min_price": 13.88,
+    "min_price_tradable": 12.46,
+    "quantity": 4
+  },
+  {
+    "name": "AUG | Carved Jade (Minimal Wear)",
+    "min_price": 15.07,
+    "min_price_tradable": 12.69,
+    "quantity": 31
+  },
+  {
+    "name": "AUG | Chameleon (Battle-Scarred)",
+    "min_price": 2.37,
+    "min_price_tradable": 3.73,
+    "quantity": 9
+  },
+  {
+    "name": "AUG | Chameleon (Factory New)",
+    "min_price": 4.35,
+    "min_price_tradable": 3.91,
+    "quantity": 40
+  },
+  {
+    "name": "AUG | Chameleon (Field-Tested)",
+    "min_price": 2.23,
+    "min_price_tradable": 2.14,
+    "quantity": 10
+  },
+  {
+    "name": "AUG | Chameleon (Minimal Wear)",
+    "min_price": 2.72,
+    "min_price_tradable": 2.12,
+    "quantity": 31
+  },
+  {
+    "name": "AUG | Chameleon (Well-Worn)",
+    "min_price": 2.43,
+    "min_price_tradable": 2.3,
+    "quantity": 10
+  },
+  {
+    "name": "AUG | Colony (Battle-Scarred)",
+    "min_price": 2.28,
+    "min_price_tradable": 1.83,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Colony (Factory New)",
+    "min_price": 11.25,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Colony (Field-Tested)",
+    "min_price": 2.78,
+    "min_price_tradable": 2.24,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Colony (Minimal Wear)",
+    "min_price": 2.91,
+    "min_price_tradable": 3.46,
+    "quantity": 3
+  },
+  {
+    "name": "AUG | Colony (Well-Worn)",
+    "min_price": 2.18,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Condemned (Battle-Scarred)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.06,
+    "quantity": 6
+  },
+  {
+    "name": "AUG | Condemned (Factory New)",
+    "min_price": 0.21,
+    "min_price_tradable": 0.73,
+    "quantity": 4
+  },
+  {
+    "name": "AUG | Condemned (Field-Tested)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.04,
+    "quantity": 150
+  },
+  {
+    "name": "AUG | Condemned (Minimal Wear)",
+    "min_price": 0.07,
+    "min_price_tradable": 0.07,
+    "quantity": 29
+  },
+  {
+    "name": "AUG | Condemned (Well-Worn)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.09,
+    "quantity": 11
+  },
+  {
+    "name": "AUG | Contractor (Battle-Scarred)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 1164
+  },
+  {
+    "name": "AUG | Contractor (Factory New)",
+    "min_price": 0.08,
+    "min_price_tradable": 0.07,
+    "quantity": 37
+  },
+  {
+    "name": "AUG | Contractor (Field-Tested)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 4336
+  },
+  {
+    "name": "AUG | Contractor (Minimal Wear)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 573
+  },
+  {
+    "name": "AUG | Contractor (Well-Worn)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 728
+  },
+  {
+    "name": "AUG | Copperhead (Field-Tested)",
+    "min_price": 89.43,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Copperhead (Minimal Wear)",
+    "min_price": 100.22,
+    "min_price_tradable": 96.89,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Daedalus (Battle-Scarred)",
+    "min_price": 4.52,
+    "min_price_tradable": 4.16,
+    "quantity": 4
+  },
+  {
+    "name": "AUG | Daedalus (Factory New)",
+    "min_price": 5.26,
+    "min_price_tradable": 4.41,
+    "quantity": 27
+  },
+  {
+    "name": "AUG | Daedalus (Field-Tested)",
+    "min_price": 4.7,
+    "min_price_tradable": 4.3,
+    "quantity": 26
+  },
+  {
+    "name": "AUG | Daedalus (Minimal Wear)",
+    "min_price": 5.41,
+    "min_price_tradable": 4.44,
+    "quantity": 25
+  },
+  {
+    "name": "AUG | Daedalus (Well-Worn)",
+    "min_price": 4.3,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Death by Puppy (Factory New)",
+    "min_price": 11.61,
+    "min_price_tradable": 8.73,
+    "quantity": 23
+  },
+  {
+    "name": "AUG | Death by Puppy (Field-Tested)",
+    "min_price": 5.63,
+    "min_price_tradable": 4.42,
+    "quantity": 16
+  },
+  {
+    "name": "AUG | Death by Puppy (Minimal Wear)",
+    "min_price": 6.87,
+    "min_price_tradable": 6.02,
+    "quantity": 19
+  },
+  {
+    "name": "AUG | Death by Puppy (Well-Worn)",
+    "min_price": 5.69,
+    "min_price_tradable": 4.7,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Eye of Zapems (Battle-Scarred)",
+    "min_price": 2.9,
+    "min_price_tradable": 2.67,
+    "quantity": 4
+  },
+  {
+    "name": "AUG | Eye of Zapems (Factory New)",
+    "min_price": 12.18,
+    "min_price_tradable": 59.68,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Eye of Zapems (Field-Tested)",
+    "min_price": 4.28,
+    "min_price_tradable": 3.94,
+    "quantity": 18
+  },
+  {
+    "name": "AUG | Eye of Zapems (Minimal Wear)",
+    "min_price": 7.24,
+    "min_price_tradable": 7.96,
+    "quantity": 18
+  },
+  {
+    "name": "AUG | Eye of Zapems (Well-Worn)",
+    "min_price": 3.79,
+    "min_price_tradable": 5.9,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Flame Jörmungandr (Battle-Scarred)",
+    "min_price": 483.59,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Flame Jörmungandr (Factory New)",
+    "min_price": 336.51,
+    "min_price_tradable": 285.55,
+    "quantity": 6
+  },
+  {
+    "name": "AUG | Flame Jörmungandr (Field-Tested)",
+    "min_price": 281.81,
+    "min_price_tradable": 260,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Flame Jörmungandr (Minimal Wear)",
+    "min_price": 306.83,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Flame Jörmungandr (Well-Worn)",
+    "min_price": 439.01,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Fleet Flock (Battle-Scarred)",
+    "min_price": 1.85,
+    "min_price_tradable": 1.78,
+    "quantity": 7
+  },
+  {
+    "name": "AUG | Fleet Flock (Factory New)",
+    "min_price": 12.37,
+    "min_price_tradable": 11,
+    "quantity": 14
+  },
+  {
+    "name": "AUG | Fleet Flock (Field-Tested)",
+    "min_price": 2.37,
+    "min_price_tradable": 1.79,
+    "quantity": 21
+  },
+  {
+    "name": "AUG | Fleet Flock (Minimal Wear)",
+    "min_price": 5.59,
+    "min_price_tradable": 3.99,
+    "quantity": 3
+  },
+  {
+    "name": "AUG | Fleet Flock (Well-Worn)",
+    "min_price": 2.01,
+    "min_price_tradable": 1.58,
+    "quantity": 15
+  },
+  {
+    "name": "AUG | Hot Rod (Factory New)",
+    "min_price": 441.6,
+    "min_price_tradable": 388.79,
+    "quantity": 7
+  },
+  {
+    "name": "AUG | Hot Rod (Minimal Wear)",
+    "min_price": 421.36,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Lil' Pig (Battle-Scarred)",
+    "min_price": 17.86,
+    "min_price_tradable": 20,
+    "quantity": 2
+  },
+  {
+    "name": "AUG | Lil' Pig (Factory New)",
+    "min_price": 80.03,
+    "min_price_tradable": 56,
+    "quantity": 5
+  },
+  {
+    "name": "AUG | Lil' Pig (Field-Tested)",
+    "min_price": 19.33,
+    "min_price_tradable": 22.72,
+    "quantity": 5
+  },
+  {
+    "name": "AUG | Lil' Pig (Minimal Wear)",
+    "min_price": 36.84,
+    "min_price_tradable": 49.26,
+    "quantity": 10
+  },
+  {
+    "name": "AUG | Lil' Pig (Well-Worn)",
+    "min_price": 20.42,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Luxe Trim (Battle-Scarred)",
+    "min_price": 0.1,
+    "min_price_tradable": 0.05,
+    "quantity": 42
+  },
+  {
+    "name": "AUG | Luxe Trim (Factory New)",
+    "min_price": 0.82,
+    "min_price_tradable": 0.98,
+    "quantity": 6
+  },
+  {
+    "name": "AUG | Luxe Trim (Field-Tested)",
+    "min_price": 0.12,
+    "min_price_tradable": 0.07,
+    "quantity": 70
+  },
+  {
+    "name": "AUG | Luxe Trim (Minimal Wear)",
+    "min_price": 0.25,
+    "min_price_tradable": 0.18,
+    "quantity": 14
+  },
+  {
+    "name": "AUG | Luxe Trim (Well-Worn)",
+    "min_price": 0.1,
+    "min_price_tradable": 0.07,
+    "quantity": 24
+  },
+  {
+    "name": "AUG | Midnight Lily (Battle-Scarred)",
+    "min_price": 480.29,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Midnight Lily (Factory New)",
+    "min_price": 366.99,
+    "min_price_tradable": 319.78,
+    "quantity": 9
+  },
+  {
+    "name": "AUG | Midnight Lily (Field-Tested)",
+    "min_price": 331.65,
+    "min_price_tradable": 304.78,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Midnight Lily (Minimal Wear)",
+    "min_price": 335.38,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Midnight Lily (Well-Worn)",
+    "min_price": 140.37,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Momentum (Battle-Scarred)",
+    "min_price": 1.57,
+    "min_price_tradable": 1.12,
+    "quantity": 9
+  },
+  {
+    "name": "AUG | Momentum (Factory New)",
+    "min_price": 15.2,
+    "min_price_tradable": 13.28,
+    "quantity": 7
+  },
+  {
+    "name": "AUG | Momentum (Field-Tested)",
+    "min_price": 1.9,
+    "min_price_tradable": 1.31,
+    "quantity": 57
+  },
+  {
+    "name": "AUG | Momentum (Minimal Wear)",
+    "min_price": 4.73,
+    "min_price_tradable": 4.55,
+    "quantity": 24
+  },
+  {
+    "name": "AUG | Momentum (Well-Worn)",
+    "min_price": 1.61,
+    "min_price_tradable": 1.29,
+    "quantity": 18
+  },
+  {
+    "name": "AUG | Navy Murano (Battle-Scarred)",
+    "min_price": 1.44,
+    "min_price_tradable": 1.09,
+    "quantity": 13
+  },
+  {
+    "name": "AUG | Navy Murano (Factory New)",
+    "min_price": 4.9,
+    "min_price_tradable": 4.59,
+    "quantity": 43
+  },
+  {
+    "name": "AUG | Navy Murano (Field-Tested)",
+    "min_price": 1.62,
+    "min_price_tradable": 1.56,
+    "quantity": 114
+  },
+  {
+    "name": "AUG | Navy Murano (Minimal Wear)",
+    "min_price": 2.03,
+    "min_price_tradable": 1.5,
+    "quantity": 46
+  },
+  {
+    "name": "AUG | Navy Murano (Well-Worn)",
+    "min_price": 1.51,
+    "min_price_tradable": 1.11,
+    "quantity": 29
+  },
+  {
+    "name": "AUG | Plague (Battle-Scarred)",
+    "min_price": 0.62,
+    "min_price_tradable": 0.49,
+    "quantity": 6
+  },
+  {
+    "name": "AUG | Plague (Factory New)",
+    "min_price": 1.6,
+    "min_price_tradable": 1.25,
+    "quantity": 28
+  },
+  {
+    "name": "AUG | Plague (Field-Tested)",
+    "min_price": 1.2,
+    "min_price_tradable": 0.92,
+    "quantity": 44
+  },
+  {
+    "name": "AUG | Plague (Minimal Wear)",
+    "min_price": 0.95,
+    "min_price_tradable": 0.73,
+    "quantity": 27
+  },
+  {
+    "name": "AUG | Plague (Well-Worn)",
+    "min_price": 0.64,
+    "min_price_tradable": 0.47,
+    "quantity": 6
+  },
+  {
+    "name": "AUG | Radiation Hazard (Battle-Scarred)",
+    "min_price": 2.06,
+    "min_price_tradable": 1.67,
+    "quantity": 3
+  },
+  {
+    "name": "AUG | Radiation Hazard (Factory New)",
+    "min_price": 2.73,
+    "min_price_tradable": 2.6,
+    "quantity": 25
+  },
+  {
+    "name": "AUG | Radiation Hazard (Field-Tested)",
+    "min_price": 2.1,
+    "min_price_tradable": 1.91,
+    "quantity": 17
+  },
+  {
+    "name": "AUG | Radiation Hazard (Minimal Wear)",
+    "min_price": 2.22,
+    "min_price_tradable": 1.63,
+    "quantity": 17
+  },
+  {
+    "name": "AUG | Radiation Hazard (Well-Worn)",
+    "min_price": 2.04,
+    "min_price_tradable": 2,
+    "quantity": 6
+  },
+  {
+    "name": "AUG | Random Access (Battle-Scarred)",
+    "min_price": 0.94,
+    "min_price_tradable": 3.25,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Random Access (Factory New)",
+    "min_price": 4.34,
+    "min_price_tradable": 5.18,
+    "quantity": 20
+  },
+  {
+    "name": "AUG | Random Access (Field-Tested)",
+    "min_price": 1.21,
+    "min_price_tradable": 0.94,
+    "quantity": 13
+  },
+  {
+    "name": "AUG | Random Access (Minimal Wear)",
+    "min_price": 2.05,
+    "min_price_tradable": 1.9,
+    "quantity": 8
+  },
+  {
+    "name": "AUG | Random Access (Well-Worn)",
+    "min_price": 1.18,
+    "min_price_tradable": 1.39,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Ricochet (Battle-Scarred)",
+    "min_price": 0.07,
+    "min_price_tradable": 0.05,
+    "quantity": 30
+  },
+  {
+    "name": "AUG | Ricochet (Factory New)",
+    "min_price": 0.62,
+    "min_price_tradable": 0.45,
+    "quantity": 66
+  },
+  {
+    "name": "AUG | Ricochet (Field-Tested)",
+    "min_price": 0.14,
+    "min_price_tradable": 0.08,
+    "quantity": 171
+  },
+  {
+    "name": "AUG | Ricochet (Minimal Wear)",
+    "min_price": 0.3,
+    "min_price_tradable": 0.2,
+    "quantity": 72
+  },
+  {
+    "name": "AUG | Ricochet (Well-Worn)",
+    "min_price": 0.12,
+    "min_price_tradable": 0.09,
+    "quantity": 16
+  },
+  {
+    "name": "AUG | Sand Storm (Battle-Scarred)",
+    "min_price": 55.47,
+    "min_price_tradable": 65,
+    "quantity": 1
+  },
+  {
+    "name": "AUG | Sand Storm (Factory New)",
+    "min_price": 68.52,
+    "min_price_tradable": 54.69,
+    "quantity": 23
+  },
+  {
+    "name": "AUG | Sand Storm (Field-Tested)",
+    "min_price": 57.75,
+    "min_price_tradable": 48.17,
+    "quantity": 15
+  },
+  {
+    "name": "AUG | Sand Storm (Minimal Wear)",
+    "min_price": 62.35,
+    "min_price_tradable": 48.51,
+    "quantity": 7
+  },
+  {
+    "name": "AUG | Sand Storm (Well-Worn)",
+    "min_price": 47.18,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Snake Pit (Battle-Scarred)",
+    "min_price": 0.04,
+    "min_price_tradable": 0.03,
+    "quantity": 98
+  },
+  {
+    "name": "AUG | Snake Pit (Factory New)",
+    "min_price": 0.11,
+    "min_price_tradable": 0.08,
+    "quantity": 225
+  },
+  {
+    "name": "AUG | Snake Pit (Field-Tested)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 810
+  },
+  {
+    "name": "AUG | Snake Pit (Minimal Wear)",
+    "min_price": 0.05,
+    "min_price_tradable": 0.03,
+    "quantity": 268
+  },
+  {
+    "name": "AUG | Snake Pit (Well-Worn)",
+    "min_price": 0.04,
+    "min_price_tradable": 0.03,
+    "quantity": 65
+  },
+  {
+    "name": "AUG | Spalted Wood (Battle-Scarred)",
+    "min_price": 4.71,
+    "min_price_tradable": 4,
+    "quantity": 3
+  },
+  {
+    "name": "AUG | Spalted Wood (Factory New)",
+    "min_price": 4.5,
+    "min_price_tradable": 3.62,
+    "quantity": 37
+  },
+  {
+    "name": "AUG | Spalted Wood (Field-Tested)",
+    "min_price": 4.24,
+    "min_price_tradable": 3.4,
+    "quantity": 49
+  },
+  {
+    "name": "AUG | Spalted Wood (Minimal Wear)",
+    "min_price": 4.23,
+    "min_price_tradable": 4.37,
+    "quantity": 33
+  },
+  {
+    "name": "AUG | Spalted Wood (Well-Worn)",
+    "min_price": 4.61,
+    "min_price_tradable": 4.54,
+    "quantity": 5
+  },
+  {
+    "name": "AUG | Storm (Battle-Scarred)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 765
+  },
+  {
+    "name": "AUG | Storm (Factory New)",
+    "min_price": 0.34,
+    "min_price_tradable": 0.35,
+    "quantity": 17
+  },
+  {
+    "name": "AUG | Storm (Field-Tested)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 3895
+  },
+  {
+    "name": "AUG | Storm (Minimal Wear)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 600
+  },
+  {
+    "name": "AUG | Storm (Well-Worn)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 631
+  },
+  {
+    "name": "AUG | Stymphalian (Battle-Scarred)",
+    "min_price": 1.5,
+    "min_price_tradable": 1.19,
+    "quantity": 13
+  },
+  {
+    "name": "AUG | Stymphalian (Factory New)",
+    "min_price": 8.12,
+    "min_price_tradable": 8.09,
+    "quantity": 27
+  },
+  {
+    "name": "AUG | Stymphalian (Field-Tested)",
+    "min_price": 1.66,
+    "min_price_tradable": 1.31,
+    "quantity": 21
+  },
+  {
+    "name": "AUG | Stymphalian (Minimal Wear)",
+    "min_price": 3.77,
+    "min_price_tradable": 2.94,
+    "quantity": 34
+  },
+  {
+    "name": "AUG | Stymphalian (Well-Worn)",
+    "min_price": 1.62,
+    "min_price_tradable": 1.69,
+    "quantity": 8
+  },
+  {
+    "name": "AUG | Surveillance (Battle-Scarred)",
+    "min_price": 0.9,
+    "min_price_tradable": 0.72,
+    "quantity": 8
+  },
+  {
+    "name": "AUG | Surveillance (Factory New)",
+    "min_price": 0.97,
+    "min_price_tradable": 0.85,
+    "quantity": 303
+  },
+  {
+    "name": "AUG | Surveillance (Field-Tested)",
+    "min_price": 0.92,
+    "min_price_tradable": 0.72,
+    "quantity": 192
+  },
+  {
+    "name": "AUG | Surveillance (Minimal Wear)",
+    "min_price": 0.98,
+    "min_price_tradable": 0.79,
+    "quantity": 98
+  },
+  {
+    "name": "AUG | Surveillance (Well-Worn)",
+    "min_price": 0.87,
+    "min_price_tradable": 0.74,
+    "quantity": 69
+  },
+  {
+    "name": "AUG | Sweeper (Battle-Scarred)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 503
+  },
+  {
+    "name": "AUG | Sweeper (Factory New)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.03,
+    "quantity": 176
+  },
+  {
+    "name": "AUG | Sweeper (Field-Tested)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 3312
+  },
+  {
+    "name": "AUG | Sweeper (Minimal Wear)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 566
+  },
+  {
+    "name": "AUG | Sweeper (Well-Worn)",
+    "min_price": 0.03,
+    "min_price_tradable": 0.02,
+    "quantity": 227
+  },
+  {
+    "name": "AUG | Syd Mead (Battle-Scarred)",
+    "min_price": 1.64,
+    "min_price_tradable": 1.19,
+    "quantity": 7
+  },
+  {
+    "name": "AUG | Syd Mead (Factory New)",
+    "min_price": 8.84,
+    "min_price_tradable": 6.83,
+    "quantity": 9
+  },
+  {
+    "name": "AUG | Syd Mead (Field-Tested)",
+    "min_price": 1.83,
+    "min_price_tradable": 1.4,
+    "quantity": 26
+  },
+  {
+    "name": "AUG | Syd Mead (Minimal Wear)",
+    "min_price": 3.96,
+    "min_price_tradable": 3.89,
+    "quantity": 12
+  },
+  {
+    "name": "AUG | Syd Mead (Well-Worn)",
+    "min_price": 2.03,
+    "min_price_tradable": 2.53,
+    "quantity": 8
+  },
+  {
+    "name": "AUG | Tom Cat (Battle-Scarred)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.04,
+    "quantity": 182
+  },
+  {
+    "name": "AUG | Tom Cat (Factory New)",
+    "min_price": 0.3,
+    "min_price_tradable": 0.23,
+    "quantity": 44
+  },
+  {
+    "name": "AUG | Tom Cat (Field-Tested)",
+    "min_price": 0.09,
+    "min_price_tradable": 0.05,
+    "quantity": 409
+  },
+  {
+    "name": "AUG | Tom Cat (Minimal Wear)",
+    "min_price": 0.12,
+    "min_price_tradable": 0.08,
+    "quantity": 82
+  },
+  {
+    "name": "AUG | Tom Cat (Well-Worn)",
+    "min_price": 0.08,
+    "min_price_tradable": 0.04,
+    "quantity": 40
+  },
+  {
+    "name": "AUG | Torque (Battle-Scarred)",
+    "min_price": 7.91,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Torque (Factory New)",
+    "min_price": 11.83,
+    "min_price_tradable": 8.9,
+    "quantity": 24
+  },
+  {
+    "name": "AUG | Torque (Field-Tested)",
+    "min_price": 8.53,
+    "min_price_tradable": 6.4,
+    "quantity": 14
+  },
+  {
+    "name": "AUG | Torque (Minimal Wear)",
+    "min_price": 9.53,
+    "min_price_tradable": 8.4,
+    "quantity": 19
+  },
+  {
+    "name": "AUG | Torque (Well-Worn)",
+    "min_price": 7.69,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AUG | Triqua (Battle-Scarred)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.04,
+    "quantity": 53
+  },
+  {
+    "name": "AUG | Triqua (Factory New)",
+    "min_price": 0.4,
+    "min_price_tradable": 0.55,
+    "quantity": 43
+  },
+  {
+    "name": "AUG | Triqua (Field-Tested)",
+    "min_price": 0.1,
+    "min_price_tradable": 0.07,
+    "quantity": 170
+  },
+  {
+    "name": "AUG | Triqua (Minimal Wear)",
+    "min_price": 0.14,
+    "min_price_tradable": 0.11,
+    "quantity": 37
+  },
+  {
+    "name": "AUG | Triqua (Well-Worn)",
+    "min_price": 0.07,
+    "min_price_tradable": 0.04,
+    "quantity": 98
+  },
+  {
+    "name": "AUG | Wings (Factory New)",
+    "min_price": 27.01,
+    "min_price_tradable": 21.54,
+    "quantity": 25
+  },
+  {
+    "name": "AUG | Wings (Minimal Wear)",
+    "min_price": 26.47,
+    "min_price_tradable": 24.01,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | Astralis | Atlanta 2017",
+    "min_price": 6.13,
+    "min_price_tradable": 5.49,
+    "quantity": 17
+  },
+  {
+    "name": "Autograph Capsule | Astralis | Cologne 2016",
+    "min_price": 10.22,
+    "min_price_tradable": 11.7,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | Astralis | MLG Columbus 2016",
+    "min_price": 4.49,
+    "min_price_tradable": 4.97,
+    "quantity": 28
+  },
+  {
+    "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
+    "min_price": 77.54,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015",
+    "min_price": 52.13,
+    "min_price_tradable": 53.9,
+    "quantity": 23
+  },
+  {
+    "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+    "min_price": 56.99,
+    "min_price_tradable": 57.04,
+    "quantity": 3
+  },
+  {
+    "name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016",
+    "min_price": 33.78,
+    "min_price_tradable": 32,
+    "quantity": 40
+  },
+  {
+    "name": "Autograph Capsule | Cloud9 | Cluj-Napoca 2015",
+    "min_price": 11.32,
+    "min_price_tradable": 10.5,
+    "quantity": 30
+  },
+  {
+    "name": "Autograph Capsule | Cloud9 G2A | Cologne 2015",
+    "min_price": 8.24,
+    "min_price_tradable": 8.5,
+    "quantity": 10
+  },
+  {
+    "name": "Autograph Capsule | Cloud9 | MLG Columbus 2016",
+    "min_price": 12.68,
+    "min_price_tradable": 19.5,
+    "quantity": 2
+  },
+  {
+    "name": "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015",
+    "min_price": 6.41,
+    "min_price_tradable": 7.28,
+    "quantity": 17
+  },
+  {
+    "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2015",
+    "min_price": 7.21,
+    "min_price_tradable": 9.5,
+    "quantity": 2
+  },
+  {
+    "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2016",
+    "min_price": 17.48,
+    "min_price_tradable": 20.9,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016",
+    "min_price": 6.18,
+    "min_price_tradable": 6.39,
+    "quantity": 15
+  },
+  {
+    "name": "Autograph Capsule | FaZe Clan | Atlanta 2017",
+    "min_price": 6.68,
+    "min_price_tradable": 7.5,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | FaZe Clan | Cologne 2016",
+    "min_price": 10.3,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | FaZe Clan | MLG Columbus 2016",
+    "min_price": 5.11,
+    "min_price_tradable": 6,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017",
+    "min_price": 7.66,
+    "min_price_tradable": 7.07,
+    "quantity": 15
+  },
+  {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015",
+    "min_price": 10.04,
+    "min_price_tradable": 14.06,
+    "quantity": 7
+  },
+  {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2015",
+    "min_price": 8.59,
+    "min_price_tradable": 9.99,
+    "quantity": 12
+  },
+  {
+    "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2016",
+    "min_price": 8.91,
+    "min_price_tradable": 9.99,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016",
+    "min_price": 7.55,
+    "min_price_tradable": 7.98,
+    "quantity": 2
+  },
+  {
+    "name": "Autograph Capsule | Fnatic | Atlanta 2017",
+    "min_price": 5.53,
+    "min_price_tradable": 9.99,
+    "quantity": 3
+  },
+  {
+    "name": "Autograph Capsule | Fnatic | Cluj-Napoca 2015",
+    "min_price": 4.01,
+    "min_price_tradable": 4.75,
+    "quantity": 10
+  },
+  {
+    "name": "Autograph Capsule | Fnatic | Cologne 2015",
+    "min_price": 3.88,
+    "min_price_tradable": 3.84,
+    "quantity": 64
+  },
+  {
+    "name": "Autograph Capsule | Fnatic | Cologne 2016",
+    "min_price": 7.08,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | Fnatic | MLG Columbus 2016",
+    "min_price": 4.28,
+    "min_price_tradable": 6.56,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | G2 Esports | Atlanta 2017",
+    "min_price": 6.55,
+    "min_price_tradable": 7.8,
+    "quantity": 32
+  },
+  {
+    "name": "Autograph Capsule | G2 Esports | Cluj-Napoca 2015",
+    "min_price": 6.43,
+    "min_price_tradable": 7.99,
+    "quantity": 13
+  },
+  {
+    "name": "Autograph Capsule | G2 Esports | Cologne 2016",
+    "min_price": 17.51,
+    "min_price_tradable": 16.99,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | G2 Esports | MLG Columbus 2016",
+    "min_price": 10.66,
+    "min_price_tradable": 12.67,
+    "quantity": 2
+  },
+  {
+    "name": "Autograph Capsule | Gambit Gaming | Atlanta 2017",
+    "min_price": 7.26,
+    "min_price_tradable": 5.4,
+    "quantity": 10
+  },
+  {
+    "name": "Autograph Capsule | Gambit Gaming | Cologne 2016",
+    "min_price": 11.56,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | Gambit Gaming | MLG Columbus 2016",
+    "min_price": 5.58,
+    "min_price_tradable": 4.99,
+    "quantity": 4
+  },
+  {
+    "name": "Autograph Capsule | GODSENT | Atlanta 2017",
+    "min_price": 5.09,
+    "min_price_tradable": 5.58,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | Group A (Foil) | Cologne 2015",
+    "min_price": 14.51,
+    "min_price_tradable": 16,
+    "quantity": 7
+  },
+  {
+    "name": "Autograph Capsule | Group B (Foil) | Cologne 2015",
+    "min_price": 15.45,
+    "min_price_tradable": 16.71,
+    "quantity": 32
+  },
+  {
+    "name": "Autograph Capsule | Group C (Foil) | Cologne 2015",
+    "min_price": 17.86,
+    "min_price_tradable": 19.19,
+    "quantity": 9
+  },
+  {
+    "name": "Autograph Capsule | Group D (Foil) | Cologne 2015",
+    "min_price": 23.51,
+    "min_price_tradable": 24.76,
+    "quantity": 20
+  },
+  {
+    "name": "Autograph Capsule | HellRaisers | Atlanta 2017",
+    "min_price": 7.24,
+    "min_price_tradable": 6.5,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
+    "min_price": 82.26,
+    "min_price_tradable": 83,
+    "quantity": 9
+  },
+  {
+    "name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015",
+    "min_price": 19.78,
+    "min_price_tradable": 17.33,
+    "quantity": 25
+  },
+  {
+    "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+    "min_price": 40.49,
+    "min_price_tradable": 38.99,
+    "quantity": 9
+  },
+  {
+    "name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016",
+    "min_price": 21.62,
+    "min_price_tradable": 25.5,
+    "quantity": 26
+  },
+  {
+    "name": "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015",
+    "min_price": 7.55,
+    "min_price_tradable": 11.29,
+    "quantity": 12
+  },
+  {
+    "name": "Autograph Capsule | Luminosity Gaming | Cologne 2015",
+    "min_price": 10.2,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016",
+    "min_price": 6.41,
+    "min_price_tradable": 6.41,
+    "quantity": 28
+  },
+  {
+    "name": "Autograph Capsule | mousesports | Atlanta 2017",
+    "min_price": 11.98,
+    "min_price_tradable": 10.9,
+    "quantity": 3
+  },
+  {
+    "name": "Autograph Capsule | mousesports | Cluj-Napoca 2015",
+    "min_price": 29.04,
+    "min_price_tradable": 150,
+    "quantity": 4
+  },
+  {
+    "name": "Autograph Capsule | mousesports | Cologne 2015",
+    "min_price": 8.83,
+    "min_price_tradable": 10.79,
+    "quantity": 6
+  },
+  {
+    "name": "Autograph Capsule | mousesports | Cologne 2016",
+    "min_price": 9.02,
+    "min_price_tradable": 19.83,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | mousesports | MLG Columbus 2016",
+    "min_price": 7.71,
+    "min_price_tradable": 7.79,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
+    "min_price": 15.46,
+    "min_price_tradable": 19,
+    "quantity": 10
+  },
+  {
+    "name": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015",
+    "min_price": 5.59,
+    "min_price_tradable": 5.5,
+    "quantity": 16
+  },
+  {
+    "name": "Autograph Capsule | Natus Vincere | Cologne 2015",
+    "min_price": 4.24,
+    "min_price_tradable": 5.72,
+    "quantity": 7
+  },
+  {
+    "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+    "min_price": 8.5,
+    "min_price_tradable": 8.6,
+    "quantity": 2
+  },
+  {
+    "name": "Autograph Capsule | Natus Vincere | MLG Columbus 2016",
+    "min_price": 4.47,
+    "min_price_tradable": 4.99,
+    "quantity": 12
+  },
+  {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015",
+    "min_price": 3.95,
+    "min_price_tradable": 4.36,
+    "quantity": 14
+  },
+  {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015",
+    "min_price": 3.74,
+    "min_price_tradable": 3.85,
+    "quantity": 8
+  },
+  {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
+    "min_price": 6.06,
+    "min_price_tradable": 5.87,
+    "quantity": 3
+  },
+  {
+    "name": "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016",
+    "min_price": 5.37,
+    "min_price_tradable": 5.46,
+    "quantity": 7
+  },
+  {
+    "name": "Autograph Capsule | North | Atlanta 2017",
+    "min_price": 8.4,
+    "min_price_tradable": 8.29,
+    "quantity": 15
+  },
+  {
+    "name": "Autograph Capsule | OpTic Gaming | Atlanta 2017",
+    "min_price": 11.7,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | OpTic Gaming | Cologne 2016",
+    "min_price": 13.24,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | Renegades | Cologne 2015",
+    "min_price": 5.88,
+    "min_price_tradable": 7.57,
+    "quantity": 13
+  },
+  {
+    "name": "Autograph Capsule | SK Gaming | Atlanta 2017",
+    "min_price": 6.02,
+    "min_price_tradable": 5.5,
+    "quantity": 6
+  },
+  {
+    "name": "Autograph Capsule | SK Gaming | Cologne 2016",
+    "min_price": 6.67,
+    "min_price_tradable": 5.99,
+    "quantity": 8
+  },
+  {
+    "name": "Autograph Capsule | Splyce | MLG Columbus 2016",
+    "min_price": 5.42,
+    "min_price_tradable": 5.31,
+    "quantity": 19
+  },
+  {
+    "name": "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015",
+    "min_price": 26.55,
+    "min_price_tradable": 138,
+    "quantity": 11
+  },
+  {
+    "name": "Autograph Capsule | Team Dignitas | Cologne 2016",
+    "min_price": 19.85,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Autograph Capsule | Team eBettle | Cologne 2015",
+    "min_price": 8,
+    "min_price_tradable": 10,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | Team EnVyUs | Atlanta 2017",
+    "min_price": 8.81,
+    "min_price_tradable": 12.38,
+    "quantity": 4
+  },
+  {
+    "name": "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015",
+    "min_price": 4.75,
+    "min_price_tradable": 4.5,
+    "quantity": 82
+  },
+  {
+    "name": "Autograph Capsule | Team EnVyUs | Cologne 2015",
+    "min_price": 4.76,
+    "min_price_tradable": 4.25,
+    "quantity": 38
+  },
+  {
+    "name": "Autograph Capsule | Team EnVyUs | Cologne 2016",
+    "min_price": 18.91,
+    "min_price_tradable": 19.9,
+    "quantity": 18
+  },
+  {
+    "name": "Autograph Capsule | Team EnVyUs | MLG Columbus 2016",
+    "min_price": 6.24,
+    "min_price_tradable": 16.1,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | Team Immunity | Cologne 2015",
+    "min_price": 8.53,
+    "min_price_tradable": 7.99,
+    "quantity": 18
+  },
+  {
+    "name": "Autograph Capsule | Team Kinguin | Cologne 2015",
+    "min_price": 6.92,
+    "min_price_tradable": 5.16,
+    "quantity": 20
+  },
+  {
+    "name": "Autograph Capsule | Team Liquid | Atlanta 2017",
+    "min_price": 13.88,
+    "min_price_tradable": 21.56,
+    "quantity": 3
+  },
+  {
+    "name": "Autograph Capsule | Team Liquid | Cluj-Napoca 2015",
+    "min_price": 8.74,
+    "min_price_tradable": 11.49,
+    "quantity": 17
+  },
+  {
+    "name": "Autograph Capsule | Team Liquid | Cologne 2016",
+    "min_price": 10.8,
+    "min_price_tradable": 11.63,
+    "quantity": 3
+  },
+  {
+    "name": "Autograph Capsule | Team Liquid | MLG Columbus 2016",
+    "min_price": 6.49,
+    "min_price_tradable": 6.21,
+    "quantity": 18
+  },
+  {
+    "name": "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015",
+    "min_price": 3.99,
+    "min_price_tradable": 5.79,
+    "quantity": 3
+  },
+  {
+    "name": "Autograph Capsule | Team SoloMid | Cologne 2015",
+    "min_price": 4.17,
+    "min_price_tradable": 3.95,
+    "quantity": 23
+  },
+  {
+    "name": "Autograph Capsule | Titan | Cluj-Napoca 2015",
+    "min_price": 14.54,
+    "min_price_tradable": 19,
+    "quantity": 5
+  },
+  {
+    "name": "Autograph Capsule | Titan | Cologne 2015",
+    "min_price": 16.41,
+    "min_price_tradable": 18.57,
+    "quantity": 6
+  },
+  {
+    "name": "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015",
+    "min_price": 12.73,
+    "min_price_tradable": 13.13,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | Virtus.Pro | Atlanta 2017",
+    "min_price": 5,
+    "min_price_tradable": 5.99,
+    "quantity": 2
+  },
+  {
+    "name": "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015",
+    "min_price": 4.59,
+    "min_price_tradable": 4.75,
+    "quantity": 29
+  },
+  {
+    "name": "Autograph Capsule | Virtus.Pro | Cologne 2015",
+    "min_price": 4.9,
+    "min_price_tradable": 34.91,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | Virtus.Pro | Cologne 2016",
+    "min_price": 8,
+    "min_price_tradable": 9.8,
+    "quantity": 1
+  },
+  {
+    "name": "Autograph Capsule | Virtus.Pro | MLG Columbus 2016",
+    "min_price": 8.53,
+    "min_price_tradable": 10.99,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Acheron (Battle-Scarred)",
+    "min_price": 0.26,
+    "min_price_tradable": 0.19,
+    "quantity": 42
+  },
+  {
+    "name": "AWP | Acheron (Factory New)",
+    "min_price": 1.9,
+    "min_price_tradable": 1.44,
+    "quantity": 162
+  },
+  {
+    "name": "AWP | Acheron (Field-Tested)",
+    "min_price": 0.33,
+    "min_price_tradable": 0.25,
+    "quantity": 118
+  },
+  {
+    "name": "AWP | Acheron (Minimal Wear)",
+    "min_price": 0.86,
+    "min_price_tradable": 0.67,
+    "quantity": 57
+  },
+  {
+    "name": "AWP | Acheron (Well-Worn)",
+    "min_price": 0.74,
+    "min_price_tradable": 0.69,
+    "quantity": 18
+  },
+  {
+    "name": "AWP | Asiimov (Battle-Scarred)",
+    "min_price": 87.27,
+    "min_price_tradable": 65,
+    "quantity": 137
+  },
+  {
+    "name": "AWP | Asiimov (Field-Tested)",
+    "min_price": 149.93,
+    "min_price_tradable": 111.81,
+    "quantity": 169
+  },
+  {
+    "name": "AWP | Asiimov (Well-Worn)",
+    "min_price": 113.02,
+    "min_price_tradable": 84.4,
+    "quantity": 40
+  },
+  {
+    "name": "AWP | Atheris (Battle-Scarred)",
+    "min_price": 2.7,
+    "min_price_tradable": 1.92,
+    "quantity": 210
+  },
+  {
+    "name": "AWP | Atheris (Factory New)",
+    "min_price": 14.38,
+    "min_price_tradable": 11,
+    "quantity": 141
+  },
+  {
+    "name": "AWP | Atheris (Field-Tested)",
+    "min_price": 3.63,
+    "min_price_tradable": 2.81,
+    "quantity": 494
+  },
+  {
+    "name": "AWP | Atheris (Minimal Wear)",
+    "min_price": 6.51,
+    "min_price_tradable": 5.23,
+    "quantity": 206
+  },
+  {
+    "name": "AWP | Atheris (Well-Worn)",
+    "min_price": 2.86,
+    "min_price_tradable": 2.05,
+    "quantity": 128
+  },
+  {
+    "name": "AWP | Black Nile (Battle-Scarred)",
+    "min_price": 2.49,
+    "min_price_tradable": 2.12,
+    "quantity": 77
+  },
+  {
+    "name": "AWP | Black Nile (Factory New)",
+    "min_price": 4.95,
+    "min_price_tradable": 3.96,
+    "quantity": 332
+  },
+  {
+    "name": "AWP | Black Nile (Field-Tested)",
+    "min_price": 1.85,
+    "min_price_tradable": 1.34,
+    "quantity": 466
+  },
+  {
+    "name": "AWP | Black Nile (Minimal Wear)",
+    "min_price": 3.03,
+    "min_price_tradable": 2.27,
+    "quantity": 391
+  },
+  {
+    "name": "AWP | Black Nile (Well-Worn)",
+    "min_price": 2.72,
+    "min_price_tradable": 2.19,
+    "quantity": 25
+  },
+  {
+    "name": "AWP | BOOM (Factory New)",
+    "min_price": 338.73,
+    "min_price_tradable": 279.21,
+    "quantity": 10
+  },
+  {
+    "name": "AWP | BOOM (Field-Tested)",
+    "min_price": 110.52,
+    "min_price_tradable": 87.99,
+    "quantity": 21
+  },
+  {
+    "name": "AWP | BOOM (Minimal Wear)",
+    "min_price": 121.66,
+    "min_price_tradable": 92.17,
+    "quantity": 100
+  },
+  {
+    "name": "AWP | Capillary (Battle-Scarred)",
+    "min_price": 0.23,
+    "min_price_tradable": 0.16,
+    "quantity": 147
+  },
+  {
+    "name": "AWP | Capillary (Factory New)",
+    "min_price": 2.32,
+    "min_price_tradable": 1.65,
+    "quantity": 17
+  },
+  {
+    "name": "AWP | Capillary (Field-Tested)",
+    "min_price": 0.23,
+    "min_price_tradable": 0.16,
+    "quantity": 562
+  },
+  {
+    "name": "AWP | Capillary (Minimal Wear)",
+    "min_price": 0.55,
+    "min_price_tradable": 0.39,
+    "quantity": 212
+  },
+  {
+    "name": "AWP | Capillary (Well-Worn)",
+    "min_price": 0.45,
+    "min_price_tradable": 0.34,
+    "quantity": 66
+  },
+  {
+    "name": "AWP | Chromatic Aberration (Battle-Scarred)",
+    "min_price": 6.83,
+    "min_price_tradable": 4.89,
+    "quantity": 27
+  },
+  {
+    "name": "AWP | Chromatic Aberration (Factory New)",
+    "min_price": 17.82,
+    "min_price_tradable": 13.33,
+    "quantity": 84
+  },
+  {
+    "name": "AWP | Chromatic Aberration (Field-Tested)",
+    "min_price": 7.71,
+    "min_price_tradable": 5.59,
+    "quantity": 162
+  },
+  {
+    "name": "AWP | Chromatic Aberration (Minimal Wear)",
+    "min_price": 11.35,
+    "min_price_tradable": 8.74,
+    "quantity": 155
+  },
+  {
+    "name": "AWP | Chromatic Aberration (Well-Worn)",
+    "min_price": 8.38,
+    "min_price_tradable": 6.52,
+    "quantity": 12
+  },
+  {
+    "name": "AWP | Chrome Cannon (Battle-Scarred)",
+    "min_price": 21.77,
+    "min_price_tradable": 18.22,
+    "quantity": 28
+  },
+  {
+    "name": "AWP | Chrome Cannon (Factory New)",
+    "min_price": 149.01,
+    "min_price_tradable": 118.05,
+    "quantity": 18
+  },
+  {
+    "name": "AWP | Chrome Cannon (Field-Tested)",
+    "min_price": 48.32,
+    "min_price_tradable": 37.47,
+    "quantity": 95
+  },
+  {
+    "name": "AWP | Chrome Cannon (Minimal Wear)",
+    "min_price": 91.78,
+    "min_price_tradable": 69.93,
+    "quantity": 34
+  },
+  {
+    "name": "AWP | Chrome Cannon (Well-Worn)",
+    "min_price": 30.32,
+    "min_price_tradable": 25,
+    "quantity": 32
+  },
+  {
+    "name": "AWP | CMYK (Battle-Scarred)",
+    "min_price": 122.76,
+    "min_price_tradable": 117.87,
+    "quantity": 5
+  },
+  {
+    "name": "AWP | CMYK (Factory New)",
+    "min_price": 715.7,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | CMYK (Field-Tested)",
+    "min_price": 182.52,
+    "min_price_tradable": 159.99,
+    "quantity": 21
+  },
+  {
+    "name": "AWP | CMYK (Minimal Wear)",
+    "min_price": 303.22,
+    "min_price_tradable": 302.58,
+    "quantity": 4
+  },
+  {
+    "name": "AWP | CMYK (Well-Worn)",
+    "min_price": 189.84,
+    "min_price_tradable": 340,
+    "quantity": 1
+  },
+  {
+    "name": "AWP | Containment Breach (Battle-Scarred)",
+    "min_price": 50.64,
+    "min_price_tradable": 36.7,
+    "quantity": 23
+  },
+  {
+    "name": "AWP | Containment Breach (Factory New)",
+    "min_price": 352.07,
+    "min_price_tradable": 281.33,
+    "quantity": 20
+  },
+  {
+    "name": "AWP | Containment Breach (Field-Tested)",
+    "min_price": 90.54,
+    "min_price_tradable": 69,
+    "quantity": 52
+  },
+  {
+    "name": "AWP | Containment Breach (Minimal Wear)",
+    "min_price": 161.38,
+    "min_price_tradable": 112.82,
+    "quantity": 51
+  },
+  {
+    "name": "AWP | Containment Breach (Well-Worn)",
+    "min_price": 61.77,
+    "min_price_tradable": 46.78,
+    "quantity": 37
+  },
+  {
+    "name": "AWP | Corticera (Factory New)",
+    "min_price": 42.54,
+    "min_price_tradable": 31.29,
+    "quantity": 16
+  },
+  {
+    "name": "AWP | Corticera (Field-Tested)",
+    "min_price": 15.33,
+    "min_price_tradable": 11.21,
+    "quantity": 15
+  },
+  {
+    "name": "AWP | Corticera (Minimal Wear)",
+    "min_price": 15.81,
+    "min_price_tradable": 13.6,
+    "quantity": 39
+  },
+  {
+    "name": "AWP | Crakow! (Battle-Scarred)",
+    "min_price": 24.64,
+    "min_price_tradable": 20.65,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | Crakow! (Factory New)",
+    "min_price": 190.44,
+    "min_price_tradable": 200,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Crakow! (Field-Tested)",
+    "min_price": 60.67,
+    "min_price_tradable": 52.41,
+    "quantity": 20
+  },
+  {
+    "name": "AWP | Crakow! (Minimal Wear)",
+    "min_price": 92.46,
+    "min_price_tradable": 78.59,
+    "quantity": 28
+  },
+  {
+    "name": "AWP | Crakow! (Well-Worn)",
+    "min_price": 33.54,
+    "min_price_tradable": 35,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Desert Hydra (Battle-Scarred)",
+    "min_price": 1345.01,
+    "min_price_tradable": 1139.94,
+    "quantity": 5
+  },
+  {
+    "name": "AWP | Desert Hydra (Factory New)",
+    "min_price": 2609.28,
+    "min_price_tradable": 2300,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Desert Hydra (Field-Tested)",
+    "min_price": 1766.45,
+    "min_price_tradable": 1416.04,
+    "quantity": 15
+  },
+  {
+    "name": "AWP | Desert Hydra (Minimal Wear)",
+    "min_price": 2171.6,
+    "min_price_tradable": 1819.28,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Desert Hydra (Well-Worn)",
+    "min_price": 1533,
+    "min_price_tradable": 1241.69,
+    "quantity": 2
+  },
+  {
+    "name": "AWP | Dragon Lore (Battle-Scarred)",
+    "min_price": 4500.76,
+    "min_price_tradable": 3900,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | Dragon Lore (Factory New)",
+    "min_price": 12818.65,
+    "min_price_tradable": 12261.99,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | Dragon Lore (Field-Tested)",
+    "min_price": 6684.95,
+    "min_price_tradable": 5799.82,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Dragon Lore (Minimal Wear)",
+    "min_price": 9924.76,
+    "min_price_tradable": 8510.64,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Dragon Lore (Well-Worn)",
+    "min_price": 6010.33,
+    "min_price_tradable": 4754.23,
+    "quantity": 1
+  },
+  {
+    "name": "AWP | Duality (Battle-Scarred)",
+    "min_price": 1.92,
+    "min_price_tradable": 1.39,
+    "quantity": 179
+  },
+  {
+    "name": "AWP | Duality (Factory New)",
+    "min_price": 12.34,
+    "min_price_tradable": 10.97,
+    "quantity": 68
+  },
+  {
+    "name": "AWP | Duality (Field-Tested)",
+    "min_price": 2.23,
+    "min_price_tradable": 1.63,
+    "quantity": 601
+  },
+  {
+    "name": "AWP | Duality (Minimal Wear)",
+    "min_price": 5.82,
+    "min_price_tradable": 4.28,
+    "quantity": 206
+  },
+  {
+    "name": "AWP | Duality (Well-Worn)",
+    "min_price": 2.47,
+    "min_price_tradable": 1.89,
+    "quantity": 25
+  },
+  {
+    "name": "AWP | Electric Hive (Factory New)",
+    "min_price": 58.83,
+    "min_price_tradable": 45.14,
+    "quantity": 71
+  },
+  {
+    "name": "AWP | Electric Hive (Field-Tested)",
+    "min_price": 31.95,
+    "min_price_tradable": 25.2,
+    "quantity": 39
+  },
+  {
+    "name": "AWP | Electric Hive (Minimal Wear)",
+    "min_price": 42.99,
+    "min_price_tradable": 30,
+    "quantity": 50
+  },
+  {
+    "name": "AWP | Electric Hive (Well-Worn)",
+    "min_price": 32.89,
+    "min_price_tradable": 37.94,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | Elite Build (Battle-Scarred)",
+    "min_price": 15.91,
+    "min_price_tradable": 13.68,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Elite Build (Factory New)",
+    "min_price": 34.48,
+    "min_price_tradable": 29.9,
+    "quantity": 27
+  },
+  {
+    "name": "AWP | Elite Build (Field-Tested)",
+    "min_price": 16.92,
+    "min_price_tradable": 12.99,
+    "quantity": 73
+  },
+  {
+    "name": "AWP | Elite Build (Minimal Wear)",
+    "min_price": 22.83,
+    "min_price_tradable": 18.62,
+    "quantity": 48
+  },
+  {
+    "name": "AWP | Elite Build (Well-Worn)",
+    "min_price": 15.26,
+    "min_price_tradable": 14.4,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Exoskeleton (Battle-Scarred)",
+    "min_price": 2.88,
+    "min_price_tradable": 2.22,
+    "quantity": 40
+  },
+  {
+    "name": "AWP | Exoskeleton (Factory New)",
+    "min_price": 9.61,
+    "min_price_tradable": 8.09,
+    "quantity": 65
+  },
+  {
+    "name": "AWP | Exoskeleton (Field-Tested)",
+    "min_price": 3.31,
+    "min_price_tradable": 2.49,
+    "quantity": 136
+  },
+  {
+    "name": "AWP | Exoskeleton (Minimal Wear)",
+    "min_price": 4.84,
+    "min_price_tradable": 3.97,
+    "quantity": 141
+  },
+  {
+    "name": "AWP | Exoskeleton (Well-Worn)",
+    "min_price": 2.91,
+    "min_price_tradable": 2.86,
+    "quantity": 21
+  },
+  {
+    "name": "AWP | Fade (Factory New)",
+    "min_price": 1055,
+    "min_price_tradable": 846.24,
+    "quantity": 42
+  },
+  {
+    "name": "AWP | Fade (Minimal Wear)",
+    "min_price": 1095.16,
+    "min_price_tradable": 1085.12,
+    "quantity": 2
+  },
+  {
+    "name": "AWP | Fever Dream (Battle-Scarred)",
+    "min_price": 10.74,
+    "min_price_tradable": 7.89,
+    "quantity": 10
+  },
+  {
+    "name": "AWP | Fever Dream (Factory New)",
+    "min_price": 14.94,
+    "min_price_tradable": 11.48,
+    "quantity": 84
+  },
+  {
+    "name": "AWP | Fever Dream (Field-Tested)",
+    "min_price": 11.04,
+    "min_price_tradable": 7.96,
+    "quantity": 148
+  },
+  {
+    "name": "AWP | Fever Dream (Minimal Wear)",
+    "min_price": 12.2,
+    "min_price_tradable": 9.52,
+    "quantity": 126
+  },
+  {
+    "name": "AWP | Fever Dream (Well-Worn)",
+    "min_price": 10.55,
+    "min_price_tradable": 7.87,
+    "quantity": 16
+  },
+  {
+    "name": "AWP | Graphite (Factory New)",
+    "min_price": 156.57,
+    "min_price_tradable": 121.91,
+    "quantity": 88
+  },
+  {
+    "name": "AWP | Graphite (Minimal Wear)",
+    "min_price": 150.56,
+    "min_price_tradable": 116.9,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Gungnir (Battle-Scarred)",
+    "min_price": 6806.49,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Gungnir (Factory New)",
+    "min_price": 13378.81,
+    "min_price_tradable": 10727.04,
+    "quantity": 1
+  },
+  {
+    "name": "AWP | Gungnir (Field-Tested)",
+    "min_price": 9269.63,
+    "min_price_tradable": 8171.76,
+    "quantity": 1
+  },
+  {
+    "name": "AWP | Gungnir (Minimal Wear)",
+    "min_price": 11425.19,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Gungnir (Well-Worn)",
+    "min_price": 7355.55,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Hyper Beast (Battle-Scarred)",
+    "min_price": 21.76,
+    "min_price_tradable": 17.24,
+    "quantity": 20
+  },
+  {
+    "name": "AWP | Hyper Beast (Factory New)",
+    "min_price": 106.09,
+    "min_price_tradable": 78.97,
+    "quantity": 52
+  },
+  {
+    "name": "AWP | Hyper Beast (Field-Tested)",
+    "min_price": 28.95,
+    "min_price_tradable": 23.76,
+    "quantity": 115
+  },
+  {
+    "name": "AWP | Hyper Beast (Minimal Wear)",
+    "min_price": 56.43,
+    "min_price_tradable": 42.76,
+    "quantity": 119
+  },
+  {
+    "name": "AWP | Hyper Beast (Well-Worn)",
+    "min_price": 22.59,
+    "min_price_tradable": 16.97,
+    "quantity": 33
+  },
+  {
+    "name": "AWP | Lightning Strike (Factory New)",
+    "min_price": 573.05,
+    "min_price_tradable": 480,
+    "quantity": 62
+  },
+  {
+    "name": "AWP | Lightning Strike (Minimal Wear)",
+    "min_price": 616.26,
+    "min_price_tradable": 559.74,
+    "quantity": 2
+  },
+  {
+    "name": "AWP | Man-o'-war (Field-Tested)",
+    "min_price": 34.94,
+    "min_price_tradable": 25.08,
+    "quantity": 24
+  },
+  {
+    "name": "AWP | Man-o'-war (Minimal Wear)",
+    "min_price": 37.58,
+    "min_price_tradable": 28.5,
+    "quantity": 81
+  },
+  {
+    "name": "AWP | Medusa (Battle-Scarred)",
+    "min_price": 1782.49,
+    "min_price_tradable": 1563,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | Medusa (Factory New)",
+    "min_price": 4796.96,
+    "min_price_tradable": 54696.41,
+    "quantity": 1
+  },
+  {
+    "name": "AWP | Medusa (Field-Tested)",
+    "min_price": 2169.6,
+    "min_price_tradable": 1863.75,
+    "quantity": 7
+  },
+  {
+    "name": "AWP | Medusa (Minimal Wear)",
+    "min_price": 2508.6,
+    "min_price_tradable": 2024,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Medusa (Well-Worn)",
+    "min_price": 1738.24,
+    "min_price_tradable": 1570.77,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Mortis (Battle-Scarred)",
+    "min_price": 2.1,
+    "min_price_tradable": 1.74,
+    "quantity": 35
+  },
+  {
+    "name": "AWP | Mortis (Factory New)",
+    "min_price": 7.63,
+    "min_price_tradable": 7.42,
+    "quantity": 65
+  },
+  {
+    "name": "AWP | Mortis (Field-Tested)",
+    "min_price": 1.98,
+    "min_price_tradable": 1.43,
+    "quantity": 340
+  },
+  {
+    "name": "AWP | Mortis (Minimal Wear)",
+    "min_price": 3.59,
+    "min_price_tradable": 2.8,
+    "quantity": 57
+  },
+  {
+    "name": "AWP | Mortis (Well-Worn)",
+    "min_price": 2.6,
+    "min_price_tradable": 2.31,
+    "quantity": 21
+  },
+  {
+    "name": "AWP | Neo-Noir (Battle-Scarred)",
+    "min_price": 21.73,
+    "min_price_tradable": 18.2,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Neo-Noir (Factory New)",
+    "min_price": 34.28,
+    "min_price_tradable": 28,
+    "quantity": 167
+  },
+  {
+    "name": "AWP | Neo-Noir (Field-Tested)",
+    "min_price": 23.75,
+    "min_price_tradable": 18.73,
+    "quantity": 228
+  },
+  {
+    "name": "AWP | Neo-Noir (Minimal Wear)",
+    "min_price": 27.96,
+    "min_price_tradable": 22.42,
+    "quantity": 206
+  },
+  {
+    "name": "AWP | Neo-Noir (Well-Worn)",
+    "min_price": 22.91,
+    "min_price_tradable": 21.57,
+    "quantity": 12
+  },
+  {
+    "name": "AWP | Oni Taiji (Battle-Scarred)",
+    "min_price": 162.32,
+    "min_price_tradable": 143.37,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | Oni Taiji (Factory New)",
+    "min_price": 461.86,
+    "min_price_tradable": 371.6,
+    "quantity": 18
+  },
+  {
+    "name": "AWP | Oni Taiji (Field-Tested)",
+    "min_price": 274.8,
+    "min_price_tradable": 223.39,
+    "quantity": 24
+  },
+  {
+    "name": "AWP | Oni Taiji (Minimal Wear)",
+    "min_price": 397.59,
+    "min_price_tradable": 297.25,
+    "quantity": 16
+  },
+  {
+    "name": "AWP | Oni Taiji (Well-Worn)",
+    "min_price": 174.11,
+    "min_price_tradable": 165,
+    "quantity": 4
+  },
+  {
+    "name": "AWP | PAW (Battle-Scarred)",
+    "min_price": 1.6,
+    "min_price_tradable": 1.2,
+    "quantity": 23
+  },
+  {
+    "name": "AWP | PAW (Factory New)",
+    "min_price": 4.36,
+    "min_price_tradable": 3.2,
+    "quantity": 171
+  },
+  {
+    "name": "AWP | PAW (Field-Tested)",
+    "min_price": 1.48,
+    "min_price_tradable": 1.06,
+    "quantity": 321
+  },
+  {
+    "name": "AWP | PAW (Minimal Wear)",
+    "min_price": 2.61,
+    "min_price_tradable": 1.95,
+    "quantity": 187
+  },
+  {
+    "name": "AWP | PAW (Well-Worn)",
+    "min_price": 1.5,
+    "min_price_tradable": 1.2,
+    "quantity": 45
+  },
+  {
+    "name": "AWP | Phobos (Factory New)",
+    "min_price": 2.17,
+    "min_price_tradable": 1.62,
+    "quantity": 146
+  },
+  {
+    "name": "AWP | Phobos (Field-Tested)",
+    "min_price": 1.23,
+    "min_price_tradable": 0.88,
+    "quantity": 155
+  },
+  {
+    "name": "AWP | Phobos (Minimal Wear)",
+    "min_price": 1.33,
+    "min_price_tradable": 1.04,
+    "quantity": 181
+  },
+  {
+    "name": "AWP | Phobos (Well-Worn)",
+    "min_price": 3.01,
+    "min_price_tradable": 2.39,
+    "quantity": 11
+  },
+  {
+    "name": "AWP | Pink DDPAT (Battle-Scarred)",
+    "min_price": 24.69,
+    "min_price_tradable": 25.96,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | Pink DDPAT (Factory New)",
+    "min_price": 127.45,
+    "min_price_tradable": 110,
+    "quantity": 14
+  },
+  {
+    "name": "AWP | Pink DDPAT (Field-Tested)",
+    "min_price": 26.97,
+    "min_price_tradable": 20.84,
+    "quantity": 14
+  },
+  {
+    "name": "AWP | Pink DDPAT (Minimal Wear)",
+    "min_price": 46.71,
+    "min_price_tradable": 40.31,
+    "quantity": 24
+  },
+  {
+    "name": "AWP | Pink DDPAT (Well-Worn)",
+    "min_price": 24.48,
+    "min_price_tradable": 21.09,
+    "quantity": 2
+  },
+  {
+    "name": "AWP | Pit Viper (Battle-Scarred)",
+    "min_price": 0.3,
+    "min_price_tradable": 0.23,
+    "quantity": 31
+  },
+  {
+    "name": "AWP | Pit Viper (Field-Tested)",
+    "min_price": 0.22,
+    "min_price_tradable": 0.16,
+    "quantity": 297
+  },
+  {
+    "name": "AWP | Pit Viper (Minimal Wear)",
+    "min_price": 0.6,
+    "min_price_tradable": 0.46,
+    "quantity": 608
+  },
+  {
+    "name": "AWP | Pit Viper (Well-Worn)",
+    "min_price": 0.42,
+    "min_price_tradable": 0.38,
+    "quantity": 32
+  },
+  {
+    "name": "AWP | POP AWP (Factory New)",
+    "min_price": 8.95,
+    "min_price_tradable": 7.2,
+    "quantity": 111
+  },
+  {
+    "name": "AWP | POP AWP (Field-Tested)",
+    "min_price": 4.99,
+    "min_price_tradable": 3.7,
+    "quantity": 114
+  },
+  {
+    "name": "AWP | POP AWP (Minimal Wear)",
+    "min_price": 6.34,
+    "min_price_tradable": 4.66,
+    "quantity": 81
+  },
+  {
+    "name": "AWP | POP AWP (Well-Worn)",
+    "min_price": 4.7,
+    "min_price_tradable": 4,
+    "quantity": 20
+  },
+  {
+    "name": "AWP | Redline (Field-Tested)",
+    "min_price": 48.06,
+    "min_price_tradable": 35.17,
+    "quantity": 170
+  },
+  {
+    "name": "AWP | Redline (Minimal Wear)",
+    "min_price": 84.94,
+    "min_price_tradable": 63.43,
+    "quantity": 119
+  },
+  {
+    "name": "AWP | Redline (Well-Worn)",
+    "min_price": 48.6,
+    "min_price_tradable": 45.5,
+    "quantity": 4
+  },
+  {
+    "name": "AWP | Safari Mesh (Battle-Scarred)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.04,
+    "quantity": 561
+  },
+  {
+    "name": "AWP | Safari Mesh (Factory New)",
+    "min_price": 1.38,
+    "min_price_tradable": 1.33,
+    "quantity": 21
+  },
+  {
+    "name": "AWP | Safari Mesh (Field-Tested)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.05,
+    "quantity": 614
+  },
+  {
+    "name": "AWP | Safari Mesh (Minimal Wear)",
+    "min_price": 0.14,
+    "min_price_tradable": 0.1,
+    "quantity": 134
+  },
+  {
+    "name": "AWP | Safari Mesh (Well-Worn)",
+    "min_price": 0.06,
+    "min_price_tradable": 0.05,
+    "quantity": 77
+  },
+  {
+    "name": "AWP | Silk Tiger (Battle-Scarred)",
+    "min_price": 124.84,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Silk Tiger (Factory New)",
+    "min_price": 285.93,
+    "min_price_tradable": 209.94,
+    "quantity": 27
+  },
+  {
+    "name": "AWP | Silk Tiger (Field-Tested)",
+    "min_price": 151.22,
+    "min_price_tradable": 119.17,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Silk Tiger (Minimal Wear)",
+    "min_price": 233.07,
+    "min_price_tradable": 207.29,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Silk Tiger (Well-Worn)",
+    "min_price": 120.53,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Snake Camo (Battle-Scarred)",
+    "min_price": 90.71,
+    "min_price_tradable": 72.95,
+    "quantity": 5
+  },
+  {
+    "name": "AWP | Snake Camo (Factory New)",
+    "min_price": 240.92,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Snake Camo (Field-Tested)",
+    "min_price": 92.04,
+    "min_price_tradable": 120,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | Snake Camo (Minimal Wear)",
+    "min_price": 106.92,
+    "min_price_tradable": 140,
+    "quantity": 4
+  },
+  {
+    "name": "AWP | Snake Camo (Well-Worn)",
+    "min_price": 86.57,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Sun in Leo (Battle-Scarred)",
+    "min_price": 22.02,
+    "min_price_tradable": 20.19,
+    "quantity": 5
+  },
+  {
+    "name": "AWP | Sun in Leo (Factory New)",
+    "min_price": 37.55,
+    "min_price_tradable": 31.01,
+    "quantity": 100
+  },
+  {
+    "name": "AWP | Sun in Leo (Field-Tested)",
+    "min_price": 22.27,
+    "min_price_tradable": 16.92,
+    "quantity": 40
+  },
+  {
+    "name": "AWP | Sun in Leo (Minimal Wear)",
+    "min_price": 26.78,
+    "min_price_tradable": 22.91,
+    "quantity": 63
+  },
+  {
+    "name": "AWP | Sun in Leo (Well-Worn)",
+    "min_price": 20.85,
+    "min_price_tradable": 19.4,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | The Prince (Battle-Scarred)",
+    "min_price": 2203.93,
+    "min_price_tradable": 1943.93,
+    "quantity": 2
+  },
+  {
+    "name": "AWP | The Prince (Factory New)",
+    "min_price": 3577.53,
+    "min_price_tradable": 2893.97,
+    "quantity": 4
+  },
+  {
+    "name": "AWP | The Prince (Field-Tested)",
+    "min_price": 2366.06,
+    "min_price_tradable": 1940,
+    "quantity": 6
+  },
+  {
+    "name": "AWP | The Prince (Minimal Wear)",
+    "min_price": 2898.91,
+    "min_price_tradable": 2349,
+    "quantity": 3
+  },
+  {
+    "name": "AWP | The Prince (Well-Worn)",
+    "min_price": 2312.7,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "AWP | Wildfire (Battle-Scarred)",
+    "min_price": 33.61,
+    "min_price_tradable": 26.89,
+    "quantity": 13
+  },
+  {
+    "name": "AWP | Wildfire (Factory New)",
+    "min_price": 145.8,
+    "min_price_tradable": 114,
+    "quantity": 59
+  },
+  {
+    "name": "AWP | Wildfire (Field-Tested)",
+    "min_price": 61.59,
+    "min_price_tradable": 45.98,
+    "quantity": 146
+  },
+  {
+    "name": "AWP | Wildfire (Minimal Wear)",
+    "min_price": 96.9,
+    "min_price_tradable": 75.02,
+    "quantity": 106
+  },
+  {
+    "name": "AWP | Wildfire (Well-Worn)",
+    "min_price": 54.9,
+    "min_price_tradable": 44.29,
+    "quantity": 8
+  },
+  {
+    "name": "AWP | Worm God (Factory New)",
+    "min_price": 2.73,
+    "min_price_tradable": 2.03,
+    "quantity": 210
+  },
+  {
+    "name": "AWP | Worm God (Field-Tested)",
+    "min_price": 1.5,
+    "min_price_tradable": 1.07,
+    "quantity": 278
+  },
+  {
+    "name": "AWP | Worm God (Minimal Wear)",
+    "min_price": 1.88,
+    "min_price_tradable": 1.37,
+    "quantity": 361
+  },
+  {
+    "name": "AWP | Worm God (Well-Worn)",
+    "min_price": 1.73,
+    "min_price_tradable": 1.24,
+    "quantity": 38
+  },
+  {
+    "name": "Baggage Pin",
+    "min_price": 3.44,
+    "min_price_tradable": 2.79,
+    "quantity": 104
+  },
+  {
+    "name": "Battlefield 2042 Sticker Capsule",
+    "min_price": 0.9,
+    "min_price_tradable": 1.26,
+    "quantity": 18
+  },
+  {
+    "name": "★ Bayonet",
+    "min_price": 508.6,
+    "min_price_tradable": 468.89,
+    "quantity": 9
+  },
+  {
+    "name": "★ Bayonet | Autotronic (Battle-Scarred)",
+    "min_price": 413.18,
+    "min_price_tradable": 319.41,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bayonet | Autotronic (Factory New)",
+    "min_price": 830.06,
+    "min_price_tradable": 748.15,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Autotronic (Field-Tested)",
+    "min_price": 474.59,
+    "min_price_tradable": 389.18,
+    "quantity": 17
+  },
+  {
+    "name": "★ Bayonet | Autotronic (Minimal Wear)",
+    "min_price": 591.44,
+    "min_price_tradable": 545.52,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bayonet | Autotronic (Well-Worn)",
+    "min_price": 473.2,
+    "min_price_tradable": 365,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Battle-Scarred)",
+    "min_price": 317.85,
+    "min_price_tradable": 245.7,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Factory New)",
+    "min_price": 433.93,
+    "min_price_tradable": 405,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Field-Tested)",
+    "min_price": 329.32,
+    "min_price_tradable": 236.09,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Minimal Wear)",
+    "min_price": 347.71,
+    "min_price_tradable": 300.34,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bayonet | Black Laminate (Well-Worn)",
+    "min_price": 306.25,
+    "min_price_tradable": 272.22,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Battle-Scarred)",
+    "min_price": 322.44,
+    "min_price_tradable": 258.69,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Factory New)",
+    "min_price": 516.64,
+    "min_price_tradable": 459.99,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Field-Tested)",
+    "min_price": 379.12,
+    "min_price_tradable": 303.1,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Minimal Wear)",
+    "min_price": 383.19,
+    "min_price_tradable": 377.89,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Blue Steel (Well-Worn)",
+    "min_price": 351.33,
+    "min_price_tradable": 296,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Battle-Scarred)",
+    "min_price": 197.54,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Field-Tested)",
+    "min_price": 214.49,
+    "min_price_tradable": 171.58,
+    "quantity": 9
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Minimal Wear)",
+    "min_price": 240.95,
+    "min_price_tradable": 190.68,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bayonet | Boreal Forest (Well-Worn)",
+    "min_price": 164.89,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Battle-Scarred)",
+    "min_price": 258.95,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Factory New)",
+    "min_price": 383.9,
+    "min_price_tradable": 319.99,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Field-Tested)",
+    "min_price": 286.88,
+    "min_price_tradable": 232.71,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Minimal Wear)",
+    "min_price": 323.07,
+    "min_price_tradable": 270.86,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bayonet | Bright Water (Well-Worn)",
+    "min_price": 247.84,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Case Hardened (Battle-Scarred)",
+    "min_price": 346.34,
+    "min_price_tradable": 281.61,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bayonet | Case Hardened (Factory New)",
+    "min_price": 647.91,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Case Hardened (Field-Tested)",
+    "min_price": 1228.65,
+    "min_price_tradable": 324.91,
+    "quantity": 9
+  },
+  {
+    "name": "★ Bayonet | Case Hardened (Minimal Wear)",
+    "min_price": 509.87,
+    "min_price_tradable": 379.38,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bayonet | Case Hardened (Well-Worn)",
+    "min_price": 380.69,
+    "min_price_tradable": 341.33,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Battle-Scarred)",
+    "min_price": 278.7,
+    "min_price_tradable": 266.11,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Factory New)",
+    "min_price": 2267.21,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Field-Tested)",
+    "min_price": 327.87,
+    "min_price_tradable": 269.77,
+    "quantity": 18
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Minimal Wear)",
+    "min_price": 502.38,
+    "min_price_tradable": 500,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Crimson Web (Well-Worn)",
+    "min_price": 299.39,
+    "min_price_tradable": 270,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Battle-Scarred)",
+    "min_price": 298.85,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Factory New)",
+    "min_price": 370.14,
+    "min_price_tradable": 278.25,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Field-Tested)",
+    "min_price": 325.98,
+    "min_price_tradable": 234.56,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Minimal Wear)",
+    "min_price": 345.99,
+    "min_price_tradable": 260,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bayonet | Damascus Steel (Well-Worn)",
+    "min_price": 328.24,
+    "min_price_tradable": 269.94,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Doppler (Factory New)",
+    "min_price": 2938.41,
+    "min_price_tradable": 538.05,
+    "quantity": 102
+  },
+  {
+    "name": "★ Bayonet | Doppler (Minimal Wear)",
+    "min_price": 2787.95,
+    "min_price_tradable": 590.8,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bayonet | Fade (Factory New)",
+    "min_price": 810.13,
+    "min_price_tradable": 650,
+    "quantity": 22
+  },
+  {
+    "name": "★ Bayonet | Fade (Minimal Wear)",
+    "min_price": 797.33,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Battle-Scarred)",
+    "min_price": 211.68,
+    "min_price_tradable": 196.94,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Factory New)",
+    "min_price": 380.84,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Field-Tested)",
+    "min_price": 210.73,
+    "min_price_tradable": 173.35,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Minimal Wear)",
+    "min_price": 235.42,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Forest DDPAT (Well-Worn)",
+    "min_price": 200.66,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Freehand (Battle-Scarred)",
+    "min_price": 318.03,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Freehand (Factory New)",
+    "min_price": 356.89,
+    "min_price_tradable": 298.41,
+    "quantity": 16
+  },
+  {
+    "name": "★ Bayonet | Freehand (Field-Tested)",
+    "min_price": 283.26,
+    "min_price_tradable": 254.22,
+    "quantity": 9
+  },
+  {
+    "name": "★ Bayonet | Freehand (Minimal Wear)",
+    "min_price": 341.91,
+    "min_price_tradable": 300,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bayonet | Freehand (Well-Worn)",
+    "min_price": 290.4,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Gamma Doppler (Factory New)",
+    "min_price": 3529.78,
+    "min_price_tradable": 738.96,
+    "quantity": 37
+  },
+  {
+    "name": "★ Bayonet | Gamma Doppler (Minimal Wear)",
+    "min_price": 2944.06,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Lore (Battle-Scarred)",
+    "min_price": 386.83,
+    "min_price_tradable": 325,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Lore (Factory New)",
+    "min_price": 845.79,
+    "min_price_tradable": 750,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bayonet | Lore (Field-Tested)",
+    "min_price": 467.39,
+    "min_price_tradable": 375.11,
+    "quantity": 16
+  },
+  {
+    "name": "★ Bayonet | Lore (Minimal Wear)",
+    "min_price": 645,
+    "min_price_tradable": 530.25,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bayonet | Lore (Well-Worn)",
+    "min_price": 428.13,
+    "min_price_tradable": 333.39,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bayonet | Marble Fade (Factory New)",
+    "min_price": 4843.44,
+    "min_price_tradable": 550.95,
+    "quantity": 41
+  },
+  {
+    "name": "★ Bayonet | Marble Fade (Minimal Wear)",
+    "min_price": 856.84,
+    "min_price_tradable": 707.96,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Night (Battle-Scarred)",
+    "min_price": 227.32,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Night (Factory New)",
+    "min_price": 1011.05,
+    "min_price_tradable": 825,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Night (Field-Tested)",
+    "min_price": 255.99,
+    "min_price_tradable": 194.7,
+    "quantity": 14
+  },
+  {
+    "name": "★ Bayonet | Night (Minimal Wear)",
+    "min_price": 344.32,
+    "min_price_tradable": 275,
+    "quantity": 8
+  },
+  {
+    "name": "★ Bayonet | Night (Well-Worn)",
+    "min_price": 229.04,
+    "min_price_tradable": 244.6,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Rust Coat (Battle-Scarred)",
+    "min_price": 246.39,
+    "min_price_tradable": 190,
+    "quantity": 13
+  },
+  {
+    "name": "★ Bayonet | Rust Coat (Well-Worn)",
+    "min_price": 238.68,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Safari Mesh (Battle-Scarred)",
+    "min_price": 202.07,
+    "min_price_tradable": 235.17,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Safari Mesh (Factory New)",
+    "min_price": 380.84,
+    "min_price_tradable": 600,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Safari Mesh (Field-Tested)",
+    "min_price": 204.28,
+    "min_price_tradable": 171.6,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bayonet | Safari Mesh (Minimal Wear)",
+    "min_price": 207.84,
+    "min_price_tradable": 195.35,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Safari Mesh (Well-Worn)",
+    "min_price": 204.63,
+    "min_price_tradable": 209.48,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Scorched (Battle-Scarred)",
+    "min_price": 204.53,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Scorched (Factory New)",
+    "min_price": 421.05,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Scorched (Field-Tested)",
+    "min_price": 216.53,
+    "min_price_tradable": 179.48,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bayonet | Scorched (Minimal Wear)",
+    "min_price": 250.36,
+    "min_price_tradable": 196.06,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Scorched (Well-Worn)",
+    "min_price": 217.36,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Slaughter (Factory New)",
+    "min_price": 628.95,
+    "min_price_tradable": 580.63,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bayonet | Slaughter (Field-Tested)",
+    "min_price": 445.58,
+    "min_price_tradable": 357.26,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Slaughter (Minimal Wear)",
+    "min_price": 501.56,
+    "min_price_tradable": 402.39,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bayonet | Stained (Battle-Scarred)",
+    "min_price": 260.15,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Stained (Factory New)",
+    "min_price": 382.45,
+    "min_price_tradable": 335.46,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Stained (Field-Tested)",
+    "min_price": 296.32,
+    "min_price_tradable": 233.49,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bayonet | Stained (Minimal Wear)",
+    "min_price": 294.09,
+    "min_price_tradable": 350,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Stained (Well-Worn)",
+    "min_price": 268.08,
+    "min_price_tradable": 241.95,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Tiger Tooth (Factory New)",
+    "min_price": 542.26,
+    "min_price_tradable": 454.55,
+    "quantity": 22
+  },
+  {
+    "name": "★ Bayonet | Tiger Tooth (Minimal Wear)",
+    "min_price": 542.9,
+    "min_price_tradable": 420,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Battle-Scarred)",
+    "min_price": 241.77,
+    "min_price_tradable": 187,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Factory New)",
+    "min_price": 628.78,
+    "min_price_tradable": 757.89,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Field-Tested)",
+    "min_price": 260.6,
+    "min_price_tradable": 199.67,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Minimal Wear)",
+    "min_price": 352.99,
+    "min_price_tradable": 301.6,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bayonet | Ultraviolet (Well-Worn)",
+    "min_price": 255.82,
+    "min_price_tradable": 205,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Urban Masked (Battle-Scarred)",
+    "min_price": 209.04,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bayonet | Urban Masked (Factory New)",
+    "min_price": 385.24,
+    "min_price_tradable": 10000,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bayonet | Urban Masked (Field-Tested)",
+    "min_price": 205.92,
+    "min_price_tradable": 170.93,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bayonet | Urban Masked (Minimal Wear)",
+    "min_price": 267.82,
+    "min_price_tradable": 202.45,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bayonet | Urban Masked (Well-Worn)",
+    "min_price": 211.81,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Berlin 2019 Dust II Souvenir Package",
+    "min_price": 8.79,
+    "min_price_tradable": 10.75,
+    "quantity": 5
+  },
+  {
+    "name": "Berlin 2019 Inferno Souvenir Package",
+    "min_price": 5.86,
+    "min_price_tradable": 5.35,
+    "quantity": 18
+  },
+  {
+    "name": "Berlin 2019 Legends Autograph Capsule",
+    "min_price": 1.1,
+    "min_price_tradable": 0.95,
+    "quantity": 1474
+  },
+  {
+    "name": "Berlin 2019 Legends (Holo-Foil)",
+    "min_price": 1.17,
+    "min_price_tradable": 1.12,
+    "quantity": 209
+  },
+  {
+    "name": "Berlin 2019 Minor Challengers Autograph Capsule",
+    "min_price": 2.18,
+    "min_price_tradable": 2.04,
+    "quantity": 2297
+  },
+  {
+    "name": "Berlin 2019 Minor Challengers (Holo-Foil)",
+    "min_price": 1.42,
+    "min_price_tradable": 1.39,
+    "quantity": 197
+  },
+  {
+    "name": "Berlin 2019 Mirage Souvenir Package",
+    "min_price": 12.81,
+    "min_price_tradable": 14,
+    "quantity": 1
+  },
+  {
+    "name": "Berlin 2019 Nuke Souvenir Package",
+    "min_price": 10.51,
+    "min_price_tradable": 11.95,
+    "quantity": 25
+  },
+  {
+    "name": "Berlin 2019 Overpass Souvenir Package",
+    "min_price": 7.76,
+    "min_price_tradable": 7.6,
+    "quantity": 18
+  },
+  {
+    "name": "Berlin 2019 Returning Challengers Autograph Capsule",
+    "min_price": 0.9,
+    "min_price_tradable": 0.81,
+    "quantity": 1734
+  },
+  {
+    "name": "Berlin 2019 Returning Challengers (Holo-Foil)",
+    "min_price": 2.12,
+    "min_price_tradable": 2.49,
+    "quantity": 152
+  },
+  {
+    "name": "Berlin 2019 Train Souvenir Package",
+    "min_price": 10.08,
+    "min_price_tradable": 10.99,
+    "quantity": 3
+  },
+  {
+    "name": "Berlin 2019 Vertigo Souvenir Package",
+    "min_price": 8.48,
+    "min_price_tradable": 8.5,
+    "quantity": 28
+  },
+  {
+    "name": "Berlin 2019 Viewer Pass",
+    "min_price": 13.89,
+    "min_price_tradable": 14.1,
+    "quantity": 25
+  },
+  {
+    "name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
+    "min_price": 45.84,
+    "min_price_tradable": 49.9,
+    "quantity": 5
+  },
+  {
+    "name": "Bestiary Capsule",
+    "min_price": 0.97,
+    "min_price_tradable": 1.43,
+    "quantity": 1
+  },
+  {
+    "name": "Bio-Haz Specialist | SWAT",
+    "min_price": 8.72,
+    "min_price_tradable": 7.76,
+    "quantity": 147
+  },
+  {
+    "name": "Black Mesa Pin",
+    "min_price": 5.64,
+    "min_price_tradable": 4.49,
+    "quantity": 13
+  },
+  {
+    "name": "Blackwolf | Sabre",
+    "min_price": 7.56,
+    "min_price_tradable": 5.67,
+    "quantity": 295
+  },
+  {
+    "name": "★ Bloodhound Gloves | Bronzed (Battle-Scarred)",
+    "min_price": 84.61,
+    "min_price_tradable": 70.47,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bloodhound Gloves | Bronzed (Factory New)",
+    "min_price": 666.31,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bloodhound Gloves | Bronzed (Field-Tested)",
+    "min_price": 106.56,
+    "min_price_tradable": 78.96,
+    "quantity": 13
+  },
+  {
+    "name": "★ Bloodhound Gloves | Bronzed (Minimal Wear)",
+    "min_price": 134.25,
+    "min_price_tradable": 119.95,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bloodhound Gloves | Bronzed (Well-Worn)",
+    "min_price": 87.25,
+    "min_price_tradable": 77.66,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bloodhound Gloves | Charred (Battle-Scarred)",
+    "min_price": 123.53,
+    "min_price_tradable": 98.11,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bloodhound Gloves | Charred (Factory New)",
+    "min_price": 936.7,
+    "min_price_tradable": 1008.62,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bloodhound Gloves | Charred (Field-Tested)",
+    "min_price": 157.74,
+    "min_price_tradable": 118.74,
+    "quantity": 19
+  },
+  {
+    "name": "★ Bloodhound Gloves | Charred (Minimal Wear)",
+    "min_price": 260.91,
+    "min_price_tradable": 220,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bloodhound Gloves | Charred (Well-Worn)",
+    "min_price": 127.73,
+    "min_price_tradable": 125,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bloodhound Gloves | Guerrilla (Battle-Scarred)",
+    "min_price": 89.68,
+    "min_price_tradable": 88.45,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bloodhound Gloves | Guerrilla (Factory New)",
+    "min_price": 468.93,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bloodhound Gloves | Guerrilla (Field-Tested)",
+    "min_price": 101.25,
+    "min_price_tradable": 79,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bloodhound Gloves | Guerrilla (Minimal Wear)",
+    "min_price": 118.95,
+    "min_price_tradable": 95.67,
+    "quantity": 8
+  },
+  {
+    "name": "★ Bloodhound Gloves | Guerrilla (Well-Worn)",
+    "min_price": 91.41,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bloodhound Gloves | Snakebite (Battle-Scarred)",
+    "min_price": 83.8,
+    "min_price_tradable": 72,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bloodhound Gloves | Snakebite (Factory New)",
+    "min_price": 566.95,
+    "min_price_tradable": 553.37,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bloodhound Gloves | Snakebite (Field-Tested)",
+    "min_price": 98.25,
+    "min_price_tradable": 75.25,
+    "quantity": 14
+  },
+  {
+    "name": "★ Bloodhound Gloves | Snakebite (Minimal Wear)",
+    "min_price": 147.27,
+    "min_price_tradable": 114.42,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bloodhound Gloves | Snakebite (Well-Worn)",
+    "min_price": 88.28,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Bloodhound Pin",
+    "min_price": 7.54,
+    "min_price_tradable": 5.95,
+    "quantity": 25
+  },
+  {
+    "name": "Bloody Darryl The Strapped | The Professionals",
+    "min_price": 49.21,
+    "min_price_tradable": 40.49,
+    "quantity": 212
+  },
+  {
+    "name": "'Blueberries' Buckshot | NSWC SEAL",
+    "min_price": 10.65,
+    "min_price_tradable": 9.5,
+    "quantity": 99
+  },
+  {
+    "name": "Boston 2018 Attending Legends Autograph Capsule",
+    "min_price": 10.09,
+    "min_price_tradable": 10.34,
+    "quantity": 42
+  },
+  {
+    "name": "Boston 2018 Attending Legends (Holo-Foil)",
+    "min_price": 21.84,
+    "min_price_tradable": 24.9,
+    "quantity": 32
+  },
+  {
+    "name": "Boston 2018 Cache Souvenir Package",
+    "min_price": 21.57,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Boston 2018 Cobblestone Souvenir Package",
+    "min_price": 1494.91,
+    "min_price_tradable": 1300,
+    "quantity": 2
+  },
+  {
+    "name": "Boston 2018 Inferno Souvenir Package",
+    "min_price": 13.83,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Boston 2018 Legends Autograph Capsule",
+    "min_price": 155.28,
+    "min_price_tradable": 139,
+    "quantity": 1
+  },
+  {
+    "name": "Boston 2018 Legends (Holo-Foil)",
+    "min_price": 196.57,
+    "min_price_tradable": 2280.38,
+    "quantity": 2
+  },
+  {
+    "name": "Boston 2018 Minor Challengers Autograph Capsule",
+    "min_price": 206.67,
+    "min_price_tradable": 212.28,
+    "quantity": 3
+  },
+  {
+    "name": "Boston 2018 Minor Challengers (Holo-Foil)",
+    "min_price": 165.2,
+    "min_price_tradable": 135,
+    "quantity": 2
+  },
+  {
+    "name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule",
+    "min_price": 15.7,
+    "min_price_tradable": 17.5,
+    "quantity": 49
+  },
+  {
+    "name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)",
+    "min_price": 26.62,
+    "min_price_tradable": 29.1,
+    "quantity": 35
+  },
+  {
+    "name": "Boston 2018 Mirage Souvenir Package",
+    "min_price": 12.31,
+    "min_price_tradable": 13.99,
+    "quantity": 2
+  },
+  {
+    "name": "Boston 2018 Nuke Souvenir Package",
+    "min_price": 41.12,
+    "min_price_tradable": 71.7,
+    "quantity": 2
+  },
+  {
+    "name": "Boston 2018 Overpass Souvenir Package",
+    "min_price": 35.22,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "Boston 2018 Returning Challengers Autograph Capsule",
+    "min_price": 12.79,
+    "min_price_tradable": 11.28,
+    "quantity": 176
+  },
+  {
+    "name": "Boston 2018 Returning Challengers (Holo-Foil)",
+    "min_price": 32.53,
+    "min_price_tradable": 43.81,
+    "quantity": 31
+  },
+  {
+    "name": "Boston 2018 Train Souvenir Package",
+    "min_price": 11.74,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife",
+    "min_price": 187.96,
+    "min_price_tradable": 166.92,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bowie Knife | Autotronic (Battle-Scarred)",
+    "min_price": 179.37,
+    "min_price_tradable": 141.72,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Autotronic (Factory New)",
+    "min_price": 298.97,
+    "min_price_tradable": 245.37,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bowie Knife | Autotronic (Field-Tested)",
+    "min_price": 199.49,
+    "min_price_tradable": 145.04,
+    "quantity": 20
+  },
+  {
+    "name": "★ Bowie Knife | Autotronic (Minimal Wear)",
+    "min_price": 226.88,
+    "min_price_tradable": 179.99,
+    "quantity": 14
+  },
+  {
+    "name": "★ Bowie Knife | Autotronic (Well-Worn)",
+    "min_price": 191.26,
+    "min_price_tradable": 163.18,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Black Laminate (Battle-Scarred)",
+    "min_price": 125.64,
+    "min_price_tradable": 119.66,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Black Laminate (Factory New)",
+    "min_price": 188.16,
+    "min_price_tradable": 185,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Black Laminate (Field-Tested)",
+    "min_price": 134.13,
+    "min_price_tradable": 109,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bowie Knife | Black Laminate (Minimal Wear)",
+    "min_price": 144.25,
+    "min_price_tradable": 116.04,
+    "quantity": 16
+  },
+  {
+    "name": "★ Bowie Knife | Black Laminate (Well-Worn)",
+    "min_price": 128.73,
+    "min_price_tradable": 100,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Battle-Scarred)",
+    "min_price": 169.69,
+    "min_price_tradable": 140.15,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Factory New)",
+    "min_price": 315.18,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Field-Tested)",
+    "min_price": 184,
+    "min_price_tradable": 151.93,
+    "quantity": 8
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Minimal Wear)",
+    "min_price": 209.93,
+    "min_price_tradable": 168.8,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bowie Knife | Blue Steel (Well-Worn)",
+    "min_price": 163.56,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Battle-Scarred)",
+    "min_price": 113.52,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Factory New)",
+    "min_price": 156.72,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Field-Tested)",
+    "min_price": 120.5,
+    "min_price_tradable": 100.71,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Minimal Wear)",
+    "min_price": 125.19,
+    "min_price_tradable": 94.4,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bowie Knife | Boreal Forest (Well-Worn)",
+    "min_price": 110.97,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Bright Water (Battle-Scarred)",
+    "min_price": 121.64,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Bright Water (Factory New)",
+    "min_price": 157.32,
+    "min_price_tradable": 131,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bowie Knife | Bright Water (Field-Tested)",
+    "min_price": 133.62,
+    "min_price_tradable": 121.03,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bowie Knife | Bright Water (Minimal Wear)",
+    "min_price": 143.78,
+    "min_price_tradable": 113.48,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bowie Knife | Bright Water (Well-Worn)",
+    "min_price": 118.22,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Case Hardened (Battle-Scarred)",
+    "min_price": 207.84,
+    "min_price_tradable": 173.73,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bowie Knife | Case Hardened (Factory New)",
+    "min_price": 842.69,
+    "min_price_tradable": 840,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Case Hardened (Field-Tested)",
+    "min_price": 1304.75,
+    "min_price_tradable": 197.35,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bowie Knife | Case Hardened (Minimal Wear)",
+    "min_price": 319.94,
+    "min_price_tradable": 244.94,
+    "quantity": 8
+  },
+  {
+    "name": "★ Bowie Knife | Case Hardened (Well-Worn)",
+    "min_price": 222.54,
+    "min_price_tradable": 170.61,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Crimson Web (Battle-Scarred)",
+    "min_price": 222.74,
+    "min_price_tradable": 349,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Crimson Web (Factory New)",
+    "min_price": 1733.23,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Crimson Web (Field-Tested)",
+    "min_price": 197.41,
+    "min_price_tradable": 168.04,
+    "quantity": 12
+  },
+  {
+    "name": "★ Bowie Knife | Crimson Web (Minimal Wear)",
+    "min_price": 311.07,
+    "min_price_tradable": 245.7,
+    "quantity": 11
+  },
+  {
+    "name": "★ Bowie Knife | Crimson Web (Well-Worn)",
+    "min_price": 177.73,
+    "min_price_tradable": 166,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Damascus Steel (Battle-Scarred)",
+    "min_price": 146.18,
+    "min_price_tradable": 150,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Damascus Steel (Factory New)",
+    "min_price": 194.8,
+    "min_price_tradable": 152.5,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bowie Knife | Damascus Steel (Field-Tested)",
+    "min_price": 160.07,
+    "min_price_tradable": 121,
+    "quantity": 16
+  },
+  {
+    "name": "★ Bowie Knife | Damascus Steel (Minimal Wear)",
+    "min_price": 174.69,
+    "min_price_tradable": 139.26,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bowie Knife | Damascus Steel (Well-Worn)",
+    "min_price": 157.36,
+    "min_price_tradable": 135.98,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bowie Knife | Doppler (Factory New)",
+    "min_price": 1688.73,
+    "min_price_tradable": 377.31,
+    "quantity": 52
+  },
+  {
+    "name": "★ Bowie Knife | Doppler (Minimal Wear)",
+    "min_price": 774.81,
+    "min_price_tradable": 422.52,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bowie Knife | Fade (Factory New)",
+    "min_price": 435.99,
+    "min_price_tradable": 367.66,
+    "quantity": 25
+  },
+  {
+    "name": "★ Bowie Knife | Fade (Minimal Wear)",
+    "min_price": 432.05,
+    "min_price_tradable": 361.74,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Forest DDPAT (Battle-Scarred)",
+    "min_price": 113.29,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Forest DDPAT (Factory New)",
+    "min_price": 213.58,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Forest DDPAT (Field-Tested)",
+    "min_price": 117.62,
+    "min_price_tradable": 102.74,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Forest DDPAT (Minimal Wear)",
+    "min_price": 121.35,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Forest DDPAT (Well-Worn)",
+    "min_price": 114.42,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Freehand (Battle-Scarred)",
+    "min_price": 125.75,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Freehand (Factory New)",
+    "min_price": 178.55,
+    "min_price_tradable": 142.57,
+    "quantity": 15
+  },
+  {
+    "name": "★ Bowie Knife | Freehand (Field-Tested)",
+    "min_price": 143.16,
+    "min_price_tradable": 115,
+    "quantity": 16
+  },
+  {
+    "name": "★ Bowie Knife | Freehand (Minimal Wear)",
+    "min_price": 167.93,
+    "min_price_tradable": 131.15,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bowie Knife | Freehand (Well-Worn)",
+    "min_price": 137.3,
+    "min_price_tradable": 130.19,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Gamma Doppler (Factory New)",
+    "min_price": 1127.47,
+    "min_price_tradable": 341.99,
+    "quantity": 27
+  },
+  {
+    "name": "★ Bowie Knife | Gamma Doppler (Minimal Wear)",
+    "min_price": 1106.14,
+    "min_price_tradable": 997.79,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Lore (Battle-Scarred)",
+    "min_price": 155.34,
+    "min_price_tradable": 139.42,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bowie Knife | Lore (Factory New)",
+    "min_price": 393.48,
+    "min_price_tradable": 391.02,
+    "quantity": 3
+  },
+  {
+    "name": "★ Bowie Knife | Lore (Field-Tested)",
+    "min_price": 217.29,
+    "min_price_tradable": 192.33,
+    "quantity": 16
+  },
+  {
+    "name": "★ Bowie Knife | Lore (Minimal Wear)",
+    "min_price": 256.51,
+    "min_price_tradable": 222.6,
+    "quantity": 10
+  },
+  {
+    "name": "★ Bowie Knife | Lore (Well-Worn)",
+    "min_price": 194.76,
+    "min_price_tradable": 154.72,
+    "quantity": 8
+  },
+  {
+    "name": "★ Bowie Knife | Marble Fade (Factory New)",
+    "min_price": 360.59,
+    "min_price_tradable": 280,
+    "quantity": 40
+  },
+  {
+    "name": "★ Bowie Knife | Marble Fade (Minimal Wear)",
+    "min_price": 349.83,
+    "min_price_tradable": 485.11,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Night (Battle-Scarred)",
+    "min_price": 118.59,
+    "min_price_tradable": 118.28,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Night (Factory New)",
+    "min_price": 280.6,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Night (Field-Tested)",
+    "min_price": 124.53,
+    "min_price_tradable": 93.78,
+    "quantity": 5
+  },
+  {
+    "name": "★ Bowie Knife | Night (Minimal Wear)",
+    "min_price": 152.88,
+    "min_price_tradable": 148,
+    "quantity": 6
+  },
+  {
+    "name": "★ Bowie Knife | Night (Well-Worn)",
+    "min_price": 119.08,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Rust Coat (Battle-Scarred)",
+    "min_price": 125.86,
+    "min_price_tradable": 97.16,
+    "quantity": 14
+  },
+  {
+    "name": "★ Bowie Knife | Rust Coat (Well-Worn)",
+    "min_price": 117.53,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Battle-Scarred)",
+    "min_price": 108.83,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Factory New)",
+    "min_price": 615.92,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Field-Tested)",
+    "min_price": 116.09,
+    "min_price_tradable": 102.23,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Minimal Wear)",
+    "min_price": 114.99,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Safari Mesh (Well-Worn)",
+    "min_price": 106.62,
+    "min_price_tradable": 101.5,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Battle-Scarred)",
+    "min_price": 111.37,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Factory New)",
+    "min_price": 161.21,
+    "min_price_tradable": 138.41,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Field-Tested)",
+    "min_price": 121.32,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Minimal Wear)",
+    "min_price": 132.23,
+    "min_price_tradable": 115,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Scorched (Well-Worn)",
+    "min_price": 111.3,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Slaughter (Factory New)",
+    "min_price": 380.09,
+    "min_price_tradable": 271.95,
+    "quantity": 11
+  },
+  {
+    "name": "★ Bowie Knife | Slaughter (Field-Tested)",
+    "min_price": 302.9,
+    "min_price_tradable": 265.08,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Slaughter (Minimal Wear)",
+    "min_price": 320.49,
+    "min_price_tradable": 261.5,
+    "quantity": 7
+  },
+  {
+    "name": "★ Bowie Knife | Stained (Battle-Scarred)",
+    "min_price": 121.97,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Stained (Factory New)",
+    "min_price": 197.34,
+    "min_price_tradable": 175,
+    "quantity": 2
+  },
+  {
+    "name": "★ Bowie Knife | Stained (Field-Tested)",
+    "min_price": 148.46,
+    "min_price_tradable": 115.32,
+    "quantity": 4
+  },
+  {
+    "name": "★ Bowie Knife | Stained (Minimal Wear)",
+    "min_price": 154.92,
+    "min_price_tradable": 122.84,
+    "quantity": 8
+  },
+  {
+    "name": "★ Bowie Knife | Stained (Well-Worn)",
+    "min_price": 134.96,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Tiger Tooth (Factory New)",
+    "min_price": 278.12,
+    "min_price_tradable": 214.58,
+    "quantity": 51
+  },
+  {
+    "name": "★ Bowie Knife | Tiger Tooth (Minimal Wear)",
+    "min_price": 254.05,
+    "min_price_tradable": 259.7,
+    "quantity": 1
+  },
+  {
+    "name": "★ Bowie Knife | Ultraviolet (Battle-Scarred)",
+    "min_price": 122.24,
+    "min_price_tradable": null,
+    "quantity": 0
+  },
+  {
+    "name": "★ Bowie Knife | Ultraviolet (Factory New)",
+    "min_price": 252.34,
+    "min_price_tradable": 232.47,
+    "quantity": 1
+  }
+]
