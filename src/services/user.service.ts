@@ -7,11 +7,20 @@ export abstract class UserService {
     return UserRepository.getUserByUsername(username)
   }
 
+  static async getUserBySessionKey(key: number): Promise<User | null> {
+    return SessionRepository.getSessionUser(key)
+  }
+
   static async createUserSession(
     user: User,
     sessionKey: number
   ): Promise<void> {
-    return SessionRepository.addSession(sessionKey, user.id)
+    return SessionRepository.addSession(sessionKey, user.user_id)
+  }
+
+  static async updatePassword(user: User, newPassword: string): Promise<void> {
+    const newPasswordHash = await Bun.password.hash(newPassword)
+    return UserRepository.updatePassword(user.user_id, newPasswordHash)
   }
 
   static async verifyPassword(

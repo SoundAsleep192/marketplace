@@ -52,4 +52,48 @@ export const userController = new Elysia({ prefix: '/user' })
     }
   })
   // логин, пароль, новый пароль
-  .post('/change-password', 'смена пароля пользователем')
+  .post(
+    '/change-password',
+    async ({
+      error,
+      body: { oldPassword, newPassword },
+      cookie: { token },
+    }) => {
+      if (oldPassword === newPassword) {
+        return error(400, {
+          success: false,
+          message: 'Can not use the same password',
+        })
+      }
+
+      const user = await UserService.getUserBySessionKey(token.value)
+
+      if (
+        !user ||
+        !(await UserService.verifyPassword(oldPassword, user.password))
+      ) {
+        return error(401)
+      }
+
+      await UserService.updatePassword(user, newPassword)
+
+      return {
+        success: true,
+        message: `Password has been updated`,
+      }
+    },
+    {
+      body: t.Object({
+        oldPassword: t.String(),
+        newPassword: t.String(),
+      }),
+      cookie: t.Cookie(
+        {
+          token: t.Number(),
+        },
+        {
+          secrets: process.env.COOKIE_SECRET,
+        }
+      ),
+    }
+  )

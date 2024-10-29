@@ -8,4 +8,13 @@ export abstract class UserRepository {
     `
     return user ?? null
   }
+
+  static async updatePassword(
+    userId: number,
+    newPassword: string
+  ): Promise<void> {
+    await sql`
+      UPDATE users SET password = ${newPassword} WHERE user_id = ${userId};
+    `
+  }
 }

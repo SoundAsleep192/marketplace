@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS items (
-  id bigserial primary key,
+  item_id bigserial primary key,
   name varchar(255) NOT NULL,
   min_price float,
   min_price_tradable float,
@@ -7,16 +7,16 @@ CREATE TABLE IF NOT EXISTS items (
 );
 
 CREATE TABLE IF NOT EXISTS users (
-  id bigserial primary key,
+  user_id bigserial primary key,
   username varchar(255) NOT NULL,
   password varchar(255) NOT NULL,
   balance int NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS sessions (
-  key bigint primary key,
+  session_key bigint primary key,
   user_id bigserial NOT NULL,
   CONSTRAINT fk_user
     FOREIGN KEY(user_id)
-      REFERENCES users(id)
+      REFERENCES users(user_id)
 );
