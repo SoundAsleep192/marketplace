@@ -3,7 +3,7 @@ import type { Item } from '../models/item.model'
 
 export abstract class ItemRepository {
   static async getAll(): Promise<Item[]> {
-    return sql`SELECT * FROM items;`
+    return sql`SELECT * FROM items ORDER BY item_id`
   }
 
   static async getItemByItemid(itemId: number): Promise<Item | null> {

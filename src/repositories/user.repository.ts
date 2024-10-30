@@ -25,14 +25,4 @@ export abstract class UserRepository {
     `
   }
 
-  static async withdraw(userId: number, amount: number): Promise<number> {
-    const [newBalance]: [{ balance: number }?] = await sql`
-      UPDATE users 
-        SET balance = balance - ${amount} 
-          WHERE user_id = ${userId} 
-            RETURNING balance;
-    `
-
-    return newBalance?.balance ?? NaN
-  }
 }

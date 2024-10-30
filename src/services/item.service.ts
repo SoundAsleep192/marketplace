@@ -21,18 +21,19 @@ export abstract class ItemService {
       throw new Error('item not found')
     }
 
+    if (item.quantity < 1) {
+      throw new Error('item is out of stock')
+    }
+
     if (user.balance < item.min_price) {
       throw new Error('insufficient funds')
     }
 
-    const balanceLeft = await UserRepository.withdraw(userId, item.min_price)
+    const newBalance = await PurchaseRepository.executePurchaseTx(
+      userId,
+      itemId
+    )
 
-    if (Number.isNaN(balanceLeft)) {
-      throw new Error('internal server error')
-    }
-
-    await PurchaseRepository.createPurchase(userId, itemId)
-
-    return balanceLeft
+    return newBalance
   }
 }

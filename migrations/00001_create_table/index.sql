@@ -1,8 +1,8 @@
 CREATE TABLE IF NOT EXISTS items (
   item_id bigserial primary key,
   name varchar(255) NOT NULL,
-  min_price float,
-  min_price_tradable float,
+  min_price DEC(7,2),
+  min_price_tradable DEC(7,2),
   quantity int NOT NULL
 );
 
@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS users (
   user_id bigserial primary key,
   username varchar(255) NOT NULL,
   password varchar(255) NOT NULL,
-  balance int NOT NULL
+  balance DEC(7,2) NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS sessions (

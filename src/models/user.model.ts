@@ -4,7 +4,7 @@ export const userModel = t.Object({
   user_id: t.Number(),
   username: t.String(),
   password: t.String(),
-  balance: t.Integer(),
+  balance: t.Number(),
 })
 
 export type User = typeof userModel.static

@@ -11,6 +11,7 @@ export const itemController = new Elysia({ prefix: '/item' })
   })
   .use(authService)
   .use(authorizedUserPlugin)
+  // В отдачу предметов необходимо добавить кеширование через redis
   .get('/', async () => {
     const items = await ItemService.getAllItems()
     return {

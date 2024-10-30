@@ -6,7 +6,8 @@
     "start": "NODE_ENV=production bun dist/index.js",
     "test": "bun test",
     "build": "bun build src/index.ts --target bun --outdir ./dist",
-    "migrate": "bun scripts/migrate.js"
+    "migrate": "bun scripts/migrate.js",
+    "drop-all": "bun scripts/drop-all.js"
   },
   "dependencies": {
     "@elysiajs/swagger": "^1.1.5",
